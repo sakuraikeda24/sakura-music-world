@@ -112,3 +112,36 @@ body {
   padding: 30px;
   color: #888;
 }
+.header-right {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  flex-wrap: wrap;
+}
+
+.language-switcher {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.lang-btn {
+  border: 1px solid #f2b8c6;
+  background: white;
+  color: #d85b7b;
+  border-radius: 999px;
+  padding: 8px 12px;
+  font-size: 13px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.lang-btn:hover {
+  background: #fff0f4;
+}
+
+.lang-btn.active {
+  background: #ff4d6d;
+  color: white;
+  border-color: #ff4d6d;
+}
