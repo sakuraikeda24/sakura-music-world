@@ -265,7 +265,7 @@ export default function MusicVideoWebsite() {
       description: t.videos[2].description,
       tag: t.videos[2].tag,
       cover:
-        "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?q=80&w=1200&auto=format&fit=crop",
+        "https://scontent.fakl5-2.fna.fbcdn.net/v/t39.30808-6/633476797_4356902411303888_8408420196503766101_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=13d280&_nc_ohc=N-mjnAF17IMQ7kNvwFiyJyy&_nc_oc=AdpknrVsCn7omsArqJa8TudII7VdCytG8RL0cchBUyHX9DgnonYUMiYffvYP4T_HK0sg7d_TgYB8dIP-0KOCaEiX&_nc_zt=23&_nc_ht=scontent.fakl5-2.fna&_nc_gid=NoXcCt9FgnZqhBuU3_H3tA&_nc_ss=7a30f&oh=00_AfwctOf5m21gVtZoe1tIRpUZQ3AdYJSTWt_SHvsFMvvqyw&oe=69C42246",
       videoUrl: "https://www.youtube.com/watch?v=01c4oLqYoJo"
     }
   ];
