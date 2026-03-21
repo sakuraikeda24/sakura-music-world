@@ -3,31 +3,85 @@ import "./styles.css";
 
 export default function MusicVideoWebsite() {
   const [activeVideo, setActiveVideo] = useState(null);
+
   const featuredVideos = [
     {
       title: "中文作品 01",
       description: "这里放你的中文原创音乐短视频",
       tag: "中文",
       cover:
-        "https://scontent.fakl5-1.fna.fbcdn.net/v/t39.30808-6/515436854_4129021264092005_4067482838813048194_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7b2446&_nc_ohc=UBiStNmFvncQ7kNvwFC6FPK&_nc_oc=AdqBwAcxE7TPcBbVonoUE9HnbHHpX5E7aK-9tcqiZZ7700EX4Mnp6NRNpo2zwtl5mPPu-xzCLI_dqGcgwKeSBEZb&_nc_zt=23&_nc_ht=scontent.fakl5-1.fna&_nc_gid=nbF0_TTkVwQfo_F5rrGV7g&_nc_ss=7a30f&oh=00_Afy391rtzV3wgh1dR_T7F3SVObBbmqL37b1zICLzIAeD0w&oe=69C30954",
-      videoUrl: "https://www.youtube.com/embed/akCeAuwHFW0",
+        "https://scontent.fak15-2.fna.fbcdn.net/v/t39.30808-6/515436854_41290.jpg",
+      videoUrl: "https://www.youtube.com/watch?v=01c4oLqYoJo"
     },
     {
       title: "日文作品 01",
       description: "这里放你的日文原创音乐短视频",
       tag: "日文",
       cover: "https://i.ibb.co/1GX15tPX/20260227224026-12-2.jpg",
-      videoUrl: "https://www.youtube.com/",
+      videoUrl: "https://www.youtube.com/watch?v=01c4oLqYoJo"
     },
     {
       title: "英文作品 01",
       description: "这里放你的英文原创音乐短视频",
       tag: "English",
       cover:
-        "https://scontent.fakl5-1.fna.fbcdn.net/v/t39.30808-6/624406739_4342880279372768_90288687277872195_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=13d280&_nc_ohc=FiNuD1RtRaUQ7kNvwFXAoT7&_nc_oc=AdrqYgBs2eE-MDfGoPezNMr5QbXCk8MWQJyEDPptBxW_gJLAmd_uiZaZo2ahapHTTPhKz43IfOYOy9b3sEdBOyyX&_nc_zt=23&_nc_ht=scontent.fakl5-1.fna&_nc_gid=CxlHNVEUxH4vf7daU9ABJA&_nc_ss=7a30f&oh=00_AfwvN7FLYBmaIIaPRMjQZjaH40ycCC5jN7G9VaRUrsJuXQ&oe=69C31B79",
-      videoUrl: "https://www.youtube.com/watch?v=01c4oLqYoJo",
-    },
+        "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?q=80&w=1200&auto=format&fit=crop",
+      videoUrl: "https://www.youtube.com/watch?v=01c4oLqYoJo"
+    }
   ];
+
+  const musicWorks = [
+    {
+      language: "中文作品",
+      text: "抒情、叙事感、适合展示你的原创歌词与现场片段"
+    },
+    {
+      language: "日文作品",
+      text: "适合放你偏日系、旋律感强、画面感明显的作品"
+    },
+    {
+      language: "英文作品",
+      text: "适合展示国际化风格、live session 或 acoustic 版本"
+    }
+  ];
+
+  const galleryPhotos = [
+    {
+      src: "https://images.unsplash.com/photo-1516280440614-37939bbacd81?q=80&w=1200&auto=format&fit=crop",
+      alt: "Live stage moment"
+    },
+    {
+      src: "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?q=80&w=1200&auto=format&fit=crop",
+      alt: "Studio writing day"
+    },
+    {
+      src: "https://images.unsplash.com/photo-1511379938547-c1f69419868d?q=80&w=1200&auto=format&fit=crop",
+      alt: "Music room"
+    },
+    {
+      src: "https://images.unsplash.com/photo-1506157786151-b8491531f063?q=80&w=1200&auto=format&fit=crop",
+      alt: "Artist portrait"
+    }
+  ];
+
+  const journalEntries = [
+    {
+      date: "2026.03.20",
+      title: "今天把网站正式上线了",
+      text: "记录作为独立音乐人把作品放到自己空间里的第一天。以后这里会更新新歌、短视频、生活片段和创作过程。"
+    },
+    {
+      date: "2026.03.12",
+      title: "一首歌的灵感从哪里来",
+      text: "有时候是夜里的一句旋律，有时候是一张照片、一段路程、一次聊天。日志区会慢慢写下这些片段。"
+    },
+    {
+      date: "2026.03.01",
+      title: "准备新的中文作品",
+      text: "最近在整理更适合现场演唱和短视频表达的版本，也在思考怎么把音乐和视觉一起讲好。"
+    }
+  ];
+
   const isYoutubeVideo = (url) =>
     url.includes("youtube.com") || url.includes("youtu.be");
 
@@ -42,6 +96,7 @@ export default function MusicVideoWebsite() {
     }
     return url;
   };
+
   return (
     <div className="page">
       <main className="container">
@@ -50,32 +105,44 @@ export default function MusicVideoWebsite() {
           <nav className="site-nav">
             <a href="#home">首页</a>
             <a href="#videos">短视频</a>
-            <a href="#music">音乐作品</a>
+            <a href="#works">音乐作品</a>
+            <a href="#gallery">Gallery</a>
+            <a href="#journal">日志</a>
             <a href="#about">关于</a>
           </nav>
         </header>
 
-        <section id="home" className="hero-advanced">
+        <section id="home" className="hero-advanced hero-showcase">
           <div className="hero-left">
-            <p className="hero-badge">Original Music · Short Videos</p>
+            <p className="hero-badge">Singer · Songwriter · Visual Diary</p>
             <h1>Sakura Music World</h1>
-            <p className="hero-text">我的原创音乐和短视频作品</p>
+            <p className="hero-text">
+              我的原创音乐、短视频、生活影像与创作日志。
+            </p>
+            <p className="hero-subtext">
+              这是一个属于我的音乐空间，放作品，也放日常，记录灵感、舞台、照片和每一个慢慢成形的瞬间。
+            </p>
 
-            <button
-              className="main-button"
-              onClick={() =>
-                document
-                  .getElementById("videos")
-                  .scrollIntoView({ behavior: "smooth" })
-              }
-            >
-              进入作品
-            </button>
+            <div className="hero-actions">
+              <button
+                className="main-button"
+                onClick={() =>
+                  document
+                    .getElementById("videos")
+                    .scrollIntoView({ behavior: "smooth" })
+                }
+              >
+                进入作品
+              </button>
+              <a className="ghost-button" href="#journal">
+                看日志
+              </a>
+            </div>
           </div>
 
           <div className="hero-right">
             <img
-              src="https://scontent.fakl5-2.fna.fbcdn.net/v/t39.30808-6/633476797_4356902411303888_8408420196503766101_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=13d280&_nc_ohc=N-mjnAF17IMQ7kNvwEPouSj&_nc_oc=AdqIcOQdIi40wgVz315VkUgenM-GZhyv-xVw_r1Tc5XOHtJZ8SXC0LZvubu8RZKEFPyYFcfARlwOWopuFlCesdFZ&_nc_zt=23&_nc_ht=scontent.fakl5-2.fna&_nc_gid=XLkG_ovLG35R6n0sS34crg&_nc_ss=7a30f&oh=00_Afz-gL-FxiR9NVuCDdLa-EZXKXC7svf43pzoTMy9RMigqQ&oe=69C30906"
+              src="https://images.unsplash.com/photo-1516280440614-37939bbacd81?q=80&w=1200&auto=format&fit=crop"
               alt="hero"
             />
           </div>
@@ -84,24 +151,19 @@ export default function MusicVideoWebsite() {
         <section id="videos" className="section">
           <div className="section-heading">
             <h2>短视频</h2>
-            <p>这里以后可以展示你的音乐短视频封面</p>
+            <p>精选的音乐短视频、现场片段和作品预告</p>
           </div>
 
           <div className="video-grid">
             {featuredVideos.map((video) => (
               <article className="video-card" key={video.title}>
                 <div className="video-cover-wrap">
-                  <img
-                    src={video.cover}
-                    alt={video.title}
-                    className="video-cover"
-                  />
+                  <img src={video.cover} alt={video.title} className="video-cover" />
                   <span className="video-tag">{video.tag}</span>
                 </div>
                 <div className="video-info">
                   <h3>{video.title}</h3>
                   <p>{video.description}</p>
-
                   <button
                     className="video-button"
                     onClick={() => setActiveVideo(video.videoUrl)}
@@ -114,27 +176,51 @@ export default function MusicVideoWebsite() {
           </div>
         </section>
 
-        <section id="music" className="section">
+        <section id="works" className="section">
           <div className="section-heading">
             <h2>音乐作品</h2>
-            <p>按语言分类展示你的作品</p>
+            <p>按语言整理作品方向，让访客一眼看懂你的创作版图</p>
           </div>
 
-          <div className="music-list">
-            <div className="music-block">
-              <h3>中文作品</h3>
-              <p>这里可以放你的中文歌曲</p>
-            </div>
+          <div className="works-grid">
+            {musicWorks.map((item) => (
+              <article className="work-card" key={item.language}>
+                <h3>{item.language}</h3>
+                <p>{item.text}</p>
+              </article>
+            ))}
+          </div>
+        </section>
 
-            <div className="music-block">
-              <h3>日文作品</h3>
-              <p>这里可以放你的日文歌曲</p>
-            </div>
+        <section id="gallery" className="section">
+          <div className="section-heading">
+            <h2>Gallery</h2>
+            <p>音乐人日常、舞台、录音、旅行与生活片段</p>
+          </div>
 
-            <div className="music-block">
-              <h3>英文作品</h3>
-              <p>这里可以放你的英文歌曲</p>
-            </div>
+          <div className="gallery-grid">
+            {galleryPhotos.map((photo) => (
+              <div className="gallery-card" key={photo.src}>
+                <img src={photo.src} alt={photo.alt} />
+              </div>
+            ))}
+          </div>
+        </section>
+
+        <section id="journal" className="section">
+          <div className="section-heading">
+            <h2>日志</h2>
+            <p>创作想法、生活片段、新歌记录与上线动态</p>
+          </div>
+
+          <div className="journal-list">
+            {journalEntries.map((entry) => (
+              <article className="journal-card" key={entry.date + entry.title}>
+                <div className="journal-date">{entry.date}</div>
+                <h3>{entry.title}</h3>
+                <p>{entry.text}</p>
+              </article>
+            ))}
           </div>
         </section>
 
@@ -143,12 +229,12 @@ export default function MusicVideoWebsite() {
             <h2>关于我</h2>
           </div>
           <p>
-            在这里写你的故事、创作背景或者音乐风格。以后也可以加上联系方式、演出信息，或者
-            YouTube 链接。
+            我会在这里持续更新自己的原创音乐、短视频、照片和日志。这个网站既是作品展示区，也是音乐人的生活记录页。
           </p>
         </section>
 
         <footer className="footer">© Sakura Music World</footer>
+
         {activeVideo && (
           <div className="video-modal" onClick={() => setActiveVideo(null)}>
             <div
