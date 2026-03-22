@@ -306,11 +306,16 @@ yeah yeah`;
                 onClick={() => setActiveMedia(item)}
                 aria-label={item.alt}
               >
-                {item.type === "image" ? (
-                  <img src={item.src} alt={item.alt} />
-                ) : (
-                  <video src={item.src} muted playsInline preload="metadata" />
-                )}
+               {item.type === "image" ? (
+  <img src={item.src} alt={item.alt} />
+) : item.type === "video" ? (
+  <video src={item.src} muted playsInline preload="metadata" />
+) : (
+  <div className="gallery-video-cover">
+    <img src={item.cover} alt={item.alt} />
+    <span className="gallery-play-icon">▶</span>
+  </div>
+)}
                 <span className="gallery-type-tag">
                   {item.type === "image" ? "Photo" : "Video"}
                 </span>
