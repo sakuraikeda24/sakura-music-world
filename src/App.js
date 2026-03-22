@@ -377,3 +377,9 @@ yeah yeah`;
     </div>
   );
 }
+const galleryItems = Array.from({ length: 50 }, (_, index) => ({
+  id: index + 1,
+  type: "image",
+  src: `/gallery/photo${index + 1}.jpg`,
+  alt: `photo ${index + 1}`
+}));
