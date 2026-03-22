@@ -153,25 +153,12 @@ yeah yeah`;
     }
   ];
 
-  const galleryItems = [
-    {
-      id: 1,
-      type: "image",
-      src: "https://scontent.fakl5-1.fna.fbcdn.net/v/t39.30808-6/490733849_4049302022063930_6802643808855178055_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=7b2446&_nc_ohc=_D2qkr24kwMQ7kNvwEdgC-c&_nc_oc=AdpCtvybJEDZa1xE8MSJejEeu1OpKDBZOxjKbWBKoCVi2IOwbKpa6FwZAofxXXm0IjBjUYHJ5EsJ0RSGaOliuJZK&_nc_zt=23&_nc_ht=scontent.fakl5-1.fna&_nc_gid=_0vSnBLufGfPctc8c-57XA&_nc_ss=7a32e&oh=00_AfyRZRDnNCaZSMTQ2MNNkj8ddfI2kYH1Tya8HhISRodwFQ&oe=69C569E4",
-      alt: "life 1"
-    },
-    {
-      id: 2,
-      type: "image",
-      src: "https://scontent.fakl5-2.fna.fbcdn.net/v/t39.30808-6/514984746_4129018634092268_1732216122266108636_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=7b2446&_nc_ohc=HurjaA6y-KIQ7kNvwFPhZoI&_nc_oc=Ado6sUx8gvsxj2InVc5NebEbyohJRyj-X6-wjKpvZZ97SMKZhcjtz8hHLj9_NNa6H3PjiMN83V_9OUNSYFRQjTTf&_nc_zt=23&_nc_ht=scontent.fakl5-2.fna&_nc_gid=UWas918LnMsd4afySLWnJA&_nc_ss=7a32e&oh=00_AfwHrLyN2rge6agRSCYkHyNktehvJq4aJuabCB5MuBbULQ&oe=69C5684E",
-      alt: "life 2"
-    },
-    {
-      id: 3,
-      type: "image",
-      src: "https://scontent.fakl5-1.fna.fbcdn.net/v/t39.30808-6/624406739_4342880279372768_90288687277872195_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=13d280&_nc_ohc=cxZryc6yudkQ7kNvwFcEDkI&_nc_oc=Adq85fBJv6Kgp4iQJ2FzHhaaFVSdn8aVMnRIWr5rm4APoKYYw01zlo75bBoltCC1UjPC6fsypG2p0RNroZ746sD0&_nc_zt=23&_nc_ht=scontent.fakl5-1.fna&_nc_gid=j0TZ0ZPwkSVYU2JxDXzJgQ&_nc_ss=7a32e&oh=00_AfzVn7DgxyZ6TIC524gbGxqMsApjyD8cD-MiIGk1biqYyA&oe=69C58639",
-      alt: "life 3"
-    }
+ const galleryItems = Array.from({ length: 50 }, (_, index) => ({
+  id: index + 1,
+  type: "image",
+  src: `/gallery/photo${index + 1}.jpg`,
+  alt: `photo ${index + 1}`
+}));
     // 以后加视频时直接这样加：
     // {
     //   id: 4,
