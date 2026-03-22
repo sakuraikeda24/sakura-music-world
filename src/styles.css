@@ -453,3 +453,35 @@ button {
     font-size: 21px;
   }
 }
+.gallery-video-cover {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.gallery-video-cover img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.gallery-play-icon {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 42px;
+  color: white;
+  text-shadow: 0 4px 18px rgba(0, 0, 0, 0.45);
+}
+
+.bilibili-frame {
+  width: 80vw;
+  max-width: 960px;
+  height: 45vw;
+  max-height: 540px;
+  border-radius: 16px;
+  background: black;
+}
