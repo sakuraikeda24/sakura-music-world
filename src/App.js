@@ -1,39 +1,42 @@
-import { useState } from "react";
+import { useRef, useState } from "react";
 import "./styles.css";
 
 export default function MusicVideoWebsite() {
   const [language, setLanguage] = useState("en");
   const [showLyrics, setShowLyrics] = useState(false);
+  const [activeMedia, setActiveMedia] = useState(null);
+  const featuredAudioRef = useRef(null);
 
   const translations = {
     en: {
       navHome: "Home",
       navMusic: "Music",
-      navVideos: "Music Videos",
-      navLife: "Life",
+      navVideos: "Videos",
+      navLife: "Gallery",
       navAbout: "About",
-      heroBadge: "Singer · Songwriter · Visual Diary",
-      heroTitle: "Sakura Music World",
-      heroText: "My original music, daily moments, and creative world.",
-      heroSubtext:
-        "A personal space for songs, visuals, memories, and the process behind every piece.",
+      siteTitle: "Sakura Music World",
+      introText1: "My original music, everyday moments, and creative world.",
+      introText2:
+        "A personal space for songs, visuals, memories, and the story behind each piece.",
       playMusic: "Play Music",
-      musicTitle: "Music Works",
+      musicTitle: "Music",
       musicDesc:
-        "A growing collection of songs in Chinese, Japanese, and English.",
+        "A growing collection of original songs in Chinese, Japanese, and English.",
       videosTitle: "Music Videos",
       videosDesc: "Official music videos and visual works will appear here.",
       comingSoon: "Coming Soon",
-      lifeTitle: "Life",
-      lifeDesc: "Photos and small fragments from a musician's daily life.",
+      lifeTitle: "Gallery",
+      lifeDesc:
+        "A collection of daily photos and videos. Click any item to view it in a larger size.",
       aboutTitle: "About Me",
       aboutText:
-        "This is my personal music space. I share songs, life fragments, and the long journey of becoming who I am through music.",
-      chineseWorks: "Chinese Works",
+        "This is my personal music space, where I share songs, visual memories, and my creative journey through music.",
       playSong: "Play Song",
       hideLyrics: "Hide Lyrics",
       showLyrics: "Show Lyrics",
-      songTitle: "破茧成火"
+      songTitle: "破茧成火",
+      nowPlaying: "Now Playing",
+      close: "Close"
     },
     zh: {
       navHome: "首页",
@@ -41,55 +44,58 @@ export default function MusicVideoWebsite() {
       navVideos: "音乐视频",
       navLife: "生活记录",
       navAbout: "关于我",
-      heroBadge: "独立音乐人 · 创作者 · 生活记录",
-      heroTitle: "池田樱子的音乐天地",
-      heroText: "我的原创音乐、生活片段与创作世界。",
-      heroSubtext:
-        "这是一个属于我的个人音乐空间，放歌曲，也放影像、记忆与创作过程。",
+      siteTitle: "Sakura Music World",
+      introText1: "我的原创音乐、生活片段与创作世界。",
+      introText2:
+        "这是一个属于我的个人空间，放歌曲、影像、记忆，以及每一首作品背后的故事。",
       playMusic: "播放音乐",
       musicTitle: "音乐作品",
-      musicDesc: "这里会持续收录中文、日文和英文作品。",
+      musicDesc: "这里会持续收录我的中文、日文和英文原创歌曲。",
       videosTitle: "音乐视频",
       videosDesc: "官方音乐视频和影像作品会逐步更新在这里。",
       comingSoon: "即将更新",
       lifeTitle: "生活记录",
-      lifeDesc: "音乐人的日常照片、片段和生活影像。",
+      lifeDesc:
+        "这里会展示我的生活照片和视频。点击任意内容后，可以查看更大的原始显示效果。",
       aboutTitle: "关于我",
       aboutText:
-        "这是我的个人音乐空间。我会在这里分享歌曲、生活片段，以及我如何通过音乐一步一步成为现在的自己。",
-      chineseWorks: "中文作品",
+        "这里是我的个人音乐空间。我会在这里分享歌曲、影像记忆，以及属于我的音乐创作旅程。",
       playSong: "播放歌曲",
       hideLyrics: "收起歌词",
       showLyrics: "查看歌词",
-      songTitle: "破茧成火"
+      songTitle: "破茧成火",
+      nowPlaying: "正在播放",
+      close: "关闭"
     },
     ja: {
       navHome: "ホーム",
       navMusic: "音楽作品",
       navVideos: "音楽映像",
-      navLife: "日々の記録",
+      navLife: "ギャラリー",
       navAbout: "私について",
-      heroBadge: "シンガーソングライター · クリエイター · 日々の記録",
-      heroTitle: "池田さくらのミュージカルワールド",
-      heroText: "オリジナル音楽、日常の断片、そして創作の世界。",
-      heroSubtext:
-        "歌、映像、記憶、そして音楽を通して形になっていく過程を残すための場所です。",
+      siteTitle: "Sakura Music World",
+      introText1: "私のオリジナル音楽、日々の瞬間、そして創作の世界。",
+      introText2:
+        "歌、映像、記憶、そして一つひとつの作品の背景を残していく、私だけの場所です。",
       playMusic: "音楽を再生",
       musicTitle: "音楽作品",
-      musicDesc: "中国語、日本語、英語の作品を少しずつ収録していきます。",
+      musicDesc:
+        "中国語、日本語、英語によるオリジナル曲を少しずつ収録していきます。",
       videosTitle: "音楽映像",
-      videosDesc: "公式MVや映像作品はここに追加していきます。",
+      videosDesc: "公式MVや映像作品をここに追加していきます。",
       comingSoon: "準備中",
-      lifeTitle: "日々の記録",
-      lifeDesc: "音楽家としての日常、写真、小さな映像の記録。",
+      lifeTitle: "ギャラリー",
+      lifeDesc:
+        "日常の写真や動画をまとめた場所です。クリックすると大きなサイズで見ることができます。",
       aboutTitle: "私について",
       aboutText:
-        "ここは私の個人的な音楽空間です。歌、日常の断片、そして音楽を通じて歩んできた道のりを記録していきます。",
-      chineseWorks: "中国語作品",
+        "ここは私の個人的な音楽空間です。歌、映像の記録、そして音楽と共に歩んできた創作の旅をここで分かち合います。",
       playSong: "再生",
       hideLyrics: "歌詞を閉じる",
       showLyrics: "歌詞を見る",
-      songTitle: "破茧成火"
+      songTitle: "破茧成火",
+      nowPlaying: "再生中",
+      close: "閉じる"
     }
   };
 
@@ -139,69 +145,113 @@ export default function MusicVideoWebsite() {
 
 yeah yeah`;
 
-  const scrollToMusic = () => {
+  const songs = [
+    {
+      id: 1,
+      title: t.songTitle,
+      file: "/破茧成火.mp3"
+    }
+  ];
+
+  const galleryItems = [
+    {
+      id: 1,
+      type: "image",
+      src: "https://scontent.fakl5-1.fna.fbcdn.net/v/t39.30808-6/490733849_4049302022063930_6802643808855178055_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=7b2446&_nc_ohc=_D2qkr24kwMQ7kNvwEdgC-c&_nc_oc=AdpCtvybJEDZa1xE8MSJejEeu1OpKDBZOxjKbWBKoCVi2IOwbKpa6FwZAofxXXm0IjBjUYHJ5EsJ0RSGaOliuJZK&_nc_zt=23&_nc_ht=scontent.fakl5-1.fna&_nc_gid=_0vSnBLufGfPctc8c-57XA&_nc_ss=7a32e&oh=00_AfyRZRDnNCaZSMTQ2MNNkj8ddfI2kYH1Tya8HhISRodwFQ&oe=69C569E4",
+      alt: "life 1"
+    },
+    {
+      id: 2,
+      type: "image",
+      src: "https://scontent.fakl5-2.fna.fbcdn.net/v/t39.30808-6/514984746_4129018634092268_1732216122266108636_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=7b2446&_nc_ohc=HurjaA6y-KIQ7kNvwFPhZoI&_nc_oc=Ado6sUx8gvsxj2InVc5NebEbyohJRyj-X6-wjKpvZZ97SMKZhcjtz8hHLj9_NNa6H3PjiMN83V_9OUNSYFRQjTTf&_nc_zt=23&_nc_ht=scontent.fakl5-2.fna&_nc_gid=UWas918LnMsd4afySLWnJA&_nc_ss=7a32e&oh=00_AfwHrLyN2rge6agRSCYkHyNktehvJq4aJuabCB5MuBbULQ&oe=69C5684E",
+      alt: "life 2"
+    },
+    {
+      id: 3,
+      type: "image",
+      src: "https://scontent.fakl5-1.fna.fbcdn.net/v/t39.30808-6/624406739_4342880279372768_90288687277872195_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=13d280&_nc_ohc=cxZryc6yudkQ7kNvwFcEDkI&_nc_oc=Adq85fBJv6Kgp4iQJ2FzHhaaFVSdn8aVMnRIWr5rm4APoKYYw01zlo75bBoltCC1UjPC6fsypG2p0RNroZ746sD0&_nc_zt=23&_nc_ht=scontent.fakl5-1.fna&_nc_gid=j0TZ0ZPwkSVYU2JxDXzJgQ&_nc_ss=7a32e&oh=00_AfzVn7DgxyZ6TIC524gbGxqMsApjyD8cD-MiIGk1biqYyA&oe=69C58639",
+      alt: "life 3"
+    }
+    // 以后加视频时直接这样加：
+    // {
+    //   id: 4,
+    //   type: "video",
+    //   src: "/gallery-video.mp4",
+    //   alt: "life video"
+    // }
+  ];
+
+  const handleFeaturedPlay = () => {
     document.getElementById("music")?.scrollIntoView({ behavior: "smooth" });
+
+    setTimeout(() => {
+      if (featuredAudioRef.current) {
+        featuredAudioRef.current.play();
+      }
+    }, 350);
   };
 
   return (
     <div className="page">
       <main className="container">
-        <header className="site-header">
-          <div className="site-title">Sakura Music World</div>
+        <header className="topbar">
+          <div className="topbar-spacer" />
+          <h1 className="site-title">{t.siteTitle}</h1>
 
-          <div className="header-right">
-            <nav className="site-nav">
-              <a href="#home">{t.navHome}</a>
-              <a href="#music">{t.navMusic}</a>
-              <a href="#videos">{t.navVideos}</a>
-              <a href="#life">{t.navLife}</a>
-              <a href="#about">{t.navAbout}</a>
-            </nav>
-
-            <div className="language-switcher">
-              <button
-                className={language === "zh" ? "lang-btn active" : "lang-btn"}
-                onClick={() => setLanguage("zh")}
-              >
-                中文
-              </button>
-              <button
-                className={language === "ja" ? "lang-btn active" : "lang-btn"}
-                onClick={() => setLanguage("ja")}
-              >
-                日本語
-              </button>
-              <button
-                className={language === "en" ? "lang-btn active" : "lang-btn"}
-                onClick={() => setLanguage("en")}
-              >
-                English
-              </button>
-            </div>
+          <div className="language-switcher">
+            <button
+              className={language === "en" ? "lang-link active" : "lang-link"}
+              onClick={() => setLanguage("en")}
+            >
+              English
+            </button>
+            <button
+              className={language === "zh" ? "lang-link active" : "lang-link"}
+              onClick={() => setLanguage("zh")}
+            >
+              中文
+            </button>
+            <button
+              className={language === "ja" ? "lang-link active" : "lang-link"}
+              onClick={() => setLanguage("ja")}
+            >
+              日本語
+            </button>
           </div>
         </header>
 
-        <section id="home" className="hero-advanced">
-          <div className="hero-left">
-            <p className="hero-badge">{t.heroBadge}</p>
-            <h1>{t.heroTitle}</h1>
-            <p className="hero-text">{t.heroText}</p>
-            <p className="hero-subtext">{t.heroSubtext}</p>
-
-            <div className="hero-actions">
-              <button className="main-button" onClick={scrollToMusic}>
-                {t.playMusic}
-              </button>
-            </div>
+        <section id="home" className="hero-layout">
+          <div className="intro-panel">
+            <p>{t.introText1}</p>
+            <p>{t.introText2}</p>
           </div>
 
-          <div className="hero-right">
+          <div className="hero-image-card">
             <img
               src="https://scontent.fakl5-1.fna.fbcdn.net/v/t39.30808-6/589422967_4280149748979155_7990063532555381749_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=13d280&_nc_ohc=S_hrrsD8RiMQ7kNvwEXl6Wg&_nc_oc=Adp5KoK8QhiYDg2zxp6F0_2SrKjEV31wG3rAQX-lFSBFe3z1HdElhVNs-xTzvkl_SH7braAcnOiSYo4Ycn4Tofxg&_nc_zt=23&_nc_ht=scontent.fakl5-1.fna&_nc_gid=31nbs625XnQqu6ameR2j7Q&_nc_ss=7a32e&oh=00_AfwPj8fVMlNnfBLxiUXgkORgVd92KDm8MWTzT-ZJ57ZuKg&oe=69C58EFC"
-              alt="hero"
+              alt="Sakura hero"
             />
           </div>
+
+          <div className="player-panel">
+            <h2>{t.playMusic}</h2>
+            <div className="player-box">
+              <button className="play-circle" onClick={handleFeaturedPlay}>
+                ▶
+              </button>
+              <p className="player-note">{t.nowPlaying}</p>
+              <p className="player-song-name">{t.songTitle}</p>
+            </div>
+          </div>
         </section>
+
+        <nav className="bottom-nav">
+          <a href="#home">{t.navHome}</a>
+          <a href="#music">{t.navMusic}</a>
+          <a href="#videos">{t.navVideos}</a>
+          <a href="#life">{t.navLife}</a>
+          <a href="#about">{t.navAbout}</a>
+        </nav>
 
         <section id="music" className="section">
           <div className="section-heading">
@@ -209,39 +259,42 @@ yeah yeah`;
             <p>{t.musicDesc}</p>
           </div>
 
-          <div className="music-group">
-            <h3 className="group-title">{t.chineseWorks}</h3>
+          <div className="music-list">
+            {songs.map((song, index) => (
+              <article className="song-card" key={song.id}>
+                <div className="song-info">
+                  <div>
+                    <div className="song-label">
+                      {String(index + 1).padStart(2, "0")}
+                    </div>
+                    <h4>{song.title}</h4>
+                  </div>
 
-            <article className="song-card">
-              <div className="song-info">
-                <div>
-                  <div className="song-label">01</div>
-                  <h4>{t.songTitle}</h4>
+                  <div className="song-actions">
+                    <button
+                      className="ghost-button small"
+                      onClick={() => setShowLyrics(!showLyrics)}
+                    >
+                      {showLyrics ? t.hideLyrics : t.showLyrics}
+                    </button>
+                  </div>
                 </div>
 
-                <div className="song-actions">
-                  <button className="video-button">
-                    {t.playSong}
-                  </button>
-                  <button
-                    className="ghost-button small"
-                    onClick={() => setShowLyrics(!showLyrics)}
-                  >
-                    {showLyrics ? t.hideLyrics : t.showLyrics}
-                  </button>
-                </div>
-              </div>
+                <audio
+                  controls
+                  className="audio-player"
+                  ref={index === 0 ? featuredAudioRef : null}
+                >
+                  <source src={song.file} type="audio/mpeg" />
+                </audio>
 
-              <audio controls className="audio-player">
-                <source src="/破茧成火.mp3" type="audio/mpeg" />
-              </audio>
-
-              {showLyrics && (
-                <div className="lyrics-box">
-                  <pre>{lyrics}</pre>
-                </div>
-              )}
-            </article>
+                {showLyrics && index === 0 && (
+                  <div className="lyrics-box">
+                    <pre>{lyrics}</pre>
+                  </div>
+                )}
+              </article>
+            ))}
           </div>
         </section>
 
@@ -261,24 +314,23 @@ yeah yeah`;
           </div>
 
           <div className="gallery-grid">
-            <div className="gallery-card">
-              <img
-                src="https://scontent.fakl5-1.fna.fbcdn.net/v/t39.30808-6/490733849_4049302022063930_6802643808855178055_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=7b2446&_nc_ohc=_D2qkr24kwMQ7kNvwEdgC-c&_nc_oc=AdpCtvybJEDZa1xE8MSJejEeu1OpKDBZOxjKbWBKoCVi2IOwbKpa6FwZAofxXXm0IjBjUYHJ5EsJ0RSGaOliuJZK&_nc_zt=23&_nc_ht=scontent.fakl5-1.fna&_nc_gid=_0vSnBLufGfPctc8c-57XA&_nc_ss=7a32e&oh=00_AfyRZRDnNCaZSMTQ2MNNkj8ddfI2kYH1Tya8HhISRodwFQ&oe=69C569E4"
-                alt="life 1"
-              />
-            </div>
-            <div className="gallery-card">
-              <img
-                src="https://scontent.fakl5-2.fna.fbcdn.net/v/t39.30808-6/514984746_4129018634092268_1732216122266108636_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=7b2446&_nc_ohc=HurjaA6y-KIQ7kNvwFPhZoI&_nc_oc=Ado6sUx8gvsxj2InVc5NebEbyohJRyj-X6-wjKpvZZ97SMKZhcjtz8hHLj9_NNa6H3PjiMN83V_9OUNSYFRQjTTf&_nc_zt=23&_nc_ht=scontent.fakl5-2.fna&_nc_gid=UWas918LnMsd4afySLWnJA&_nc_ss=7a32e&oh=00_AfwHrLyN2rge6agRSCYkHyNktehvJq4aJuabCB5MuBbULQ&oe=69C5684E"
-                alt="life 2"
-              />
-            </div>
-            <div className="gallery-card">
-              <img
-                src="https://scontent.fakl5-1.fna.fbcdn.net/v/t39.30808-6/624406739_4342880279372768_90288687277872195_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=13d280&_nc_ohc=cxZryc6yudkQ7kNvwFcEDkI&_nc_oc=Adq85fBJv6Kgp4iQJ2FzHhaaFVSdn8aVMnRIWr5rm4APoKYYw01zlo75bBoltCC1UjPC6fsypG2p0RNroZ746sD0&_nc_zt=23&_nc_ht=scontent.fakl5-1.fna&_nc_gid=j0TZ0ZPwkSVYU2JxDXzJgQ&_nc_ss=7a32e&oh=00_AfzVn7DgxyZ6TIC524gbGxqMsApjyD8cD-MiIGk1biqYyA&oe=69C58639"
-                alt="life 3"
-              />
-            </div>
+            {galleryItems.map((item) => (
+              <button
+                key={item.id}
+                className="gallery-card"
+                onClick={() => setActiveMedia(item)}
+                aria-label={item.alt}
+              >
+                {item.type === "image" ? (
+                  <img src={item.src} alt={item.alt} />
+                ) : (
+                  <video src={item.src} muted playsInline preload="metadata" />
+                )}
+                <span className="gallery-type-tag">
+                  {item.type === "image" ? "Photo" : "Video"}
+                </span>
+              </button>
+            ))}
           </div>
         </section>
 
@@ -291,6 +343,37 @@ yeah yeah`;
 
         <footer className="footer">© Sakura Music World</footer>
       </main>
+
+      {activeMedia && (
+        <div className="media-modal" onClick={() => setActiveMedia(null)}>
+          <div
+            className="media-modal-content"
+            onClick={(e) => e.stopPropagation()}
+          >
+            <button
+              className="modal-close"
+              onClick={() => setActiveMedia(null)}
+            >
+              {t.close}
+            </button>
+
+            {activeMedia.type === "image" ? (
+              <img
+                className="modal-media"
+                src={activeMedia.src}
+                alt={activeMedia.alt}
+              />
+            ) : (
+              <video
+                className="modal-media"
+                src={activeMedia.src}
+                controls
+                autoPlay
+              />
+            )}
+          </div>
+        </div>
+      )}
     </div>
   );
 }
