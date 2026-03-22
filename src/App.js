@@ -33,7 +33,7 @@ export default function MusicVideoWebsite() {
       playSong: "Play Song",
       hideLyrics: "Hide Lyrics",
       showLyrics: "Show Lyrics",
-      songTitle: "Break the Cocoon into Fire"
+      songTitle: "破茧成火"
     },
     zh: {
       navHome: "首页",
@@ -42,7 +42,7 @@ export default function MusicVideoWebsite() {
       navLife: "生活记录",
       navAbout: "关于我",
       heroBadge: "独立音乐人 · 创作者 · 生活记录",
-      heroTitle: "Sakura Music World",
+      heroTitle: "池田樱子的音乐天地",
       heroText: "我的原创音乐、生活片段与创作世界。",
       heroSubtext:
         "这是一个属于我的个人音乐空间，放歌曲，也放影像、记忆与创作过程。",
@@ -70,7 +70,7 @@ export default function MusicVideoWebsite() {
       navLife: "日々の記録",
       navAbout: "私について",
       heroBadge: "シンガーソングライター · クリエイター · 日々の記録",
-      heroTitle: "Sakura Music World",
+      heroTitle: "池田さくらのミュージカルワールド",
       heroText: "オリジナル音楽、日常の断片、そして創作の世界。",
       heroSubtext:
         "歌、映像、記憶、そして音楽を通して形になっていく過程を残すための場所です。",
@@ -197,7 +197,7 @@ yeah yeah`;
 
           <div className="hero-right">
             <img
-              src="https://images.unsplash.com/photo-1516280440614-37939bbacd81?q=80&w=1200&auto=format&fit=crop"
+              src="https://scontent.fakl5-1.fna.fbcdn.net/v/t39.30808-6/589422967_4280149748979155_7990063532555381749_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=13d280&_nc_ohc=S_hrrsD8RiMQ7kNvwEXl6Wg&_nc_oc=Adp5KoK8QhiYDg2zxp6F0_2SrKjEV31wG3rAQX-lFSBFe3z1HdElhVNs-xTzvkl_SH7braAcnOiSYo4Ycn4Tofxg&_nc_zt=23&_nc_ht=scontent.fakl5-1.fna&_nc_gid=31nbs625XnQqu6ameR2j7Q&_nc_ss=7a32e&oh=00_AfwPj8fVMlNnfBLxiUXgkORgVd92KDm8MWTzT-ZJ57ZuKg&oe=69C58EFC"
               alt="hero"
             />
           </div>
@@ -263,19 +263,19 @@ yeah yeah`;
           <div className="gallery-grid">
             <div className="gallery-card">
               <img
-                src="https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?q=80&w=1200&auto=format&fit=crop"
+                src="https://scontent.fakl5-1.fna.fbcdn.net/v/t39.30808-6/490733849_4049302022063930_6802643808855178055_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=7b2446&_nc_ohc=_D2qkr24kwMQ7kNvwEdgC-c&_nc_oc=AdpCtvybJEDZa1xE8MSJejEeu1OpKDBZOxjKbWBKoCVi2IOwbKpa6FwZAofxXXm0IjBjUYHJ5EsJ0RSGaOliuJZK&_nc_zt=23&_nc_ht=scontent.fakl5-1.fna&_nc_gid=_0vSnBLufGfPctc8c-57XA&_nc_ss=7a32e&oh=00_AfyRZRDnNCaZSMTQ2MNNkj8ddfI2kYH1Tya8HhISRodwFQ&oe=69C569E4"
                 alt="life 1"
               />
             </div>
             <div className="gallery-card">
               <img
-                src="https://images.unsplash.com/photo-1511379938547-c1f69419868d?q=80&w=1200&auto=format&fit=crop"
+                src="https://scontent.fakl5-2.fna.fbcdn.net/v/t39.30808-6/514984746_4129018634092268_1732216122266108636_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=7b2446&_nc_ohc=HurjaA6y-KIQ7kNvwFPhZoI&_nc_oc=Ado6sUx8gvsxj2InVc5NebEbyohJRyj-X6-wjKpvZZ97SMKZhcjtz8hHLj9_NNa6H3PjiMN83V_9OUNSYFRQjTTf&_nc_zt=23&_nc_ht=scontent.fakl5-2.fna&_nc_gid=UWas918LnMsd4afySLWnJA&_nc_ss=7a32e&oh=00_AfwHrLyN2rge6agRSCYkHyNktehvJq4aJuabCB5MuBbULQ&oe=69C5684E"
                 alt="life 2"
               />
             </div>
             <div className="gallery-card">
               <img
-                src="https://images.unsplash.com/photo-1506157786151-b8491531f063?q=80&w=1200&auto=format&fit=crop"
+                src="https://scontent.fakl5-1.fna.fbcdn.net/v/t39.30808-6/624406739_4342880279372768_90288687277872195_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=13d280&_nc_ohc=cxZryc6yudkQ7kNvwFcEDkI&_nc_oc=Adq85fBJv6Kgp4iQJ2FzHhaaFVSdn8aVMnRIWr5rm4APoKYYw01zlo75bBoltCC1UjPC6fsypG2p0RNroZ746sD0&_nc_zt=23&_nc_ht=scontent.fakl5-1.fna&_nc_gid=j0TZ0ZPwkSVYU2JxDXzJgQ&_nc_ss=7a32e&oh=00_AfzVn7DgxyZ6TIC524gbGxqMsApjyD8cD-MiIGk1biqYyA&oe=69C58639"
                 alt="life 3"
               />
             </div>
