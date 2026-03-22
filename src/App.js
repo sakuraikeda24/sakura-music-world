@@ -162,7 +162,7 @@ yeah yeah`;
   galleryItems.push({
   id: 101,
   type: "bilibili",
-  bvid: "<iframe src="//player.bilibili.com/player.html?bvid=BV14nAGzMEbA&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>",
+  bvid: "//player.bilibili.com/player.html?bvid=BV14nAGzMEbA&page=1",
   alt: "video 1",
   cover: "/gallery/photo201.jpg"
 });
