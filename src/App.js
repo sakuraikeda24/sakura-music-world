@@ -44,7 +44,7 @@ export default function MusicVideoWebsite() {
       navVideos: "音乐视频",
       navLife: "生活记录",
       navAbout: "关于我",
-      siteTitle: "Sakura Music World",
+      siteTitle: "池田樱子的音乐天地",
       introText1: "我的原创音乐、生活片段与创作世界。",
       introText2:
         "这是一个属于我的个人空间，放歌曲、影像、记忆，以及每一首作品背后的故事。",
@@ -73,7 +73,7 @@ export default function MusicVideoWebsite() {
       navVideos: "音楽映像",
       navLife: "ギャラリー",
       navAbout: "私について",
-      siteTitle: "Sakura Music World",
+      siteTitle: "池田さくらのミュージカルワールド",
       introText1: "私のオリジナル音楽、日々の瞬間、そして創作の世界。",
       introText2:
         "歌、映像、記憶、そして一つひとつの作品の背景を残していく、私だけの場所です。",
