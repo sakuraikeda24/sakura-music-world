@@ -106,7 +106,12 @@ export default function MusicVideoWebsite() {
     id: 1,
     title: "破茧成火",
     file: "/破茧成火.mp3",
-    lyrics: `终于一天沉默的我不再隐藏真的自我
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）  
+English Lyrics (AI-assisted) / 英語の歌詞（AI補助）：—  
+Vocal / 演唱 / 歌：AI
+
+终于一天沉默的我不再隐藏真的自我
 不如就让我痛痛快快疯疯癫癫洒脱
 
 认定了路就算明知前方布满荆棘坎坷
