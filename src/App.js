@@ -73,7 +73,7 @@ export default function MusicVideoWebsite() {
       navVideos: "音楽映像",
       navLife: "ギャラリー",
       navAbout: "私について",
-      siteTitle: "池田さくらのミュージカルワールド",
+      siteTitle: "池田さくらの音楽",
       introText1: "私のオリジナル音楽、日々の瞬間、そして創作の世界。",
       introText2:
         "歌、映像、記憶、そして一つひとつの作品の背景を残していく、私だけの場所です。",
@@ -163,6 +163,8 @@ yeah yeah`
 Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）  
 English Lyrics (AI-assisted) / 英語の歌詞（AI補助）：—  
 Vocal / 演唱 / 歌：AI
+
+
 今ここに立っている
 もう未練などない
 この罪深い世界で
