@@ -347,20 +347,28 @@ yeah yeah`;
               {t.close}
             </button>
 
-            {activeMedia.type === "image" ? (
-              <img
-                className="modal-media"
-                src={activeMedia.src}
-                alt={activeMedia.alt}
-              />
-            ) : (
-              <video
-                className="modal-media"
-                src={activeMedia.src}
-                controls
-                autoPlay
-              />
-            )}
+           {activeMedia.type === "image" ? (
+  <img
+    className="modal-media"
+    src={activeMedia.src}
+    alt={activeMedia.alt}
+  />
+) : activeMedia.type === "video" ? (
+  <video
+    className="modal-media"
+    src={activeMedia.src}
+    controls
+    autoPlay
+  />
+) : (
+  <iframe
+    className="modal-media bilibili-frame"
+    src={`https://player.bilibili.com/player.html?bvid=${activeMedia.bvid}&page=1`}
+    title={activeMedia.alt}
+    frameBorder="0"
+    allowFullScreen
+  />
+)}
           </div>
         </div>
       )}
