@@ -34,7 +34,7 @@ export default function MusicVideoWebsite() {
       playSong: "Play Song",
       hideLyrics: "Hide Lyrics",
       showLyrics: "Show Lyrics",
-      songTitle: "終わらない終末",
+      songTitle: "破茧成火",
       nowPlaying: "Now Playing",
       close: "Close"
     },
