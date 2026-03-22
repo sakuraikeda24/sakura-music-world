@@ -3,7 +3,7 @@ import "./styles.css";
 
 export default function MusicVideoWebsite() {
   const [language, setLanguage] = useState("en");
-  const [showLyrics, setShowLyrics] = useState(false);
+  const [openLyricsId, setOpenLyricsId] = useState(null);
   const [activeMedia, setActiveMedia] = useState(null);
   const featuredAudioRef = useRef(null);
 
@@ -101,7 +101,12 @@ export default function MusicVideoWebsite() {
 
   const t = translations[language];
 
-  const lyrics = `终于一天沉默的我不再隐藏真的自我
+  const songs = [
+  {
+    id: 1,
+    title: "破茧成火",
+    file: "/破茧成火.mp3",
+    lyrics: `终于一天沉默的我不再隐藏真的自我
 不如就让我痛痛快快疯疯癫癫洒脱
 
 认定了路就算明知前方布满荆棘坎坷
@@ -143,16 +148,63 @@ export default function MusicVideoWebsite() {
 那我又何必继续扮演那个伪装的我
 不如就此推翻一切活成自我破茧成火
 
-yeah yeah`;
-
-  const songs = [
-    {
-      id: 1,
-      title: t.songTitle,
-      file: "/破茧成火.mp3"
-    }
-  ];
-
+yeah yeah`
+  },
+  {
+    id: 2,
+    title: "Song 2",
+    file: "/song2.mp3",
+    lyrics: `这里写第二首歌的歌词`
+  },
+  {
+    id: 3,
+    title: "Song 3",
+    file: "/song3.mp3",
+    lyrics: `这里写第三首歌的歌词`
+  },
+  {
+    id: 4,
+    title: "Song 4",
+    file: "/song4.mp3",
+    lyrics: `这里写第四首歌的歌词`
+  },
+  {
+    id: 5,
+    title: "Song 5",
+    file: "/song5.mp3",
+    lyrics: `这里写第五首歌的歌词`
+  },
+  {
+    id: 6,
+    title: "Song 6",
+    file: "/song6.mp3",
+    lyrics: `这里写第六首歌的歌词`
+  },
+  {
+    id: 7,
+    title: "Song 7",
+    file: "/song7.mp3",
+    lyrics: `这里写第七首歌的歌词`
+  },
+  {
+    id: 8,
+    title: "Song 8",
+    file: "/song8.mp3",
+    lyrics: `这里写第八首歌的歌词`
+  },
+  {
+    id: 9,
+    title: "Song 9",
+    file: "/song9.mp3",
+    lyrics: `这里写第九首歌的歌词`
+  },
+  {
+    id: 10,
+    title: "Song 10",
+    file: "/song10.mp3",
+    lyrics: `这里写第十首歌的歌词`
+  }
+];
   const galleryItems = Array.from({ length: 50 }, (_, index) => ({
   id: index + 1,
   type: "image",
@@ -257,11 +309,13 @@ yeah yeah`;
 
                   <div className="song-actions">
                     <button
-                      className="ghost-button small"
-                      onClick={() => setShowLyrics(!showLyrics)}
-                    >
-                      {showLyrics ? t.hideLyrics : t.showLyrics}
-                    </button>
+  className="ghost-button small"
+  onClick={() =>
+    setOpenLyricsId(openLyricsId === song.id ? null : song.id)
+  }
+>
+  {openLyricsId === song.id ? t.hideLyrics : t.showLyrics}
+</button>
                   </div>
                 </div>
 
@@ -273,11 +327,11 @@ yeah yeah`;
                   <source src={song.file} type="audio/mpeg" />
                 </audio>
 
-                {showLyrics && index === 0 && (
-                  <div className="lyrics-box">
-                    <pre>{lyrics}</pre>
-                  </div>
-                )}
+                {openLyricsId === song.id && (
+  <div className="lyrics-box">
+    <pre>{song.lyrics}</pre>
+  </div>
+)}
               </article>
             ))}
           </div>
