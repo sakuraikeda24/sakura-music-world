@@ -289,7 +289,19 @@ yeah yeah`;
             <p>{t.videosDesc}</p>
           </div>
 
-          <div className="placeholder-card">{t.comingSoon}</div>
+        <div className="video-card">
+  <div className="video-frame-wrap">
+    <iframe
+      className="video-frame"
+      src="https://player.bilibili.com/player.html?bvid=BV14nAGzMEbA&page=1"
+      title="Music Video"
+      frameBorder="0"
+      allow="autoplay; fullscreen; picture-in-picture"
+      allowFullScreen
+      scrolling="no"
+    />
+  </div>
+</div>
         </section>
 
         <section id="life" className="section">
