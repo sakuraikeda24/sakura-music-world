@@ -378,7 +378,7 @@ Vocal / 演唱 / 歌：AI
                 <audio
                   controls
                   className="audio-player"
-                  ref={index === 0 ? featuredAudioRef : null}
+                  ref={index === 1 ? featuredAudioRef : null}
                 >
                   <source src={song.file} type="audio/mpeg" />
                 </audio>
