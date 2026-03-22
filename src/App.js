@@ -164,7 +164,6 @@ Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・
 English Lyrics (AI-assisted) / 英語の歌詞（AI補助）：—  
 Vocal / 演唱 / 歌：AI
 
-
 今ここに立っている
 もう未練などない
 この罪深い世界で
