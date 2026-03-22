@@ -159,6 +159,13 @@ yeah yeah`;
   src: `/gallery/photo${index + 1}.jpg`,
   alt: `photo ${index + 1}`
 }));
+  galleryItems.push({
+  id: 101,
+  type: "bilibili",
+  bvid: "https://www.bilibili.com/video/BV14nAGzMEbA/?vd_source=dd91874e2dd082c4e426aa932b5be109",
+  alt: "video 1",
+  cover: "/gallery/photo201.jpg"
+});
   const handleFeaturedPlay = () => {
     document.getElementById("music")?.scrollIntoView({ behavior: "smooth" });
 
