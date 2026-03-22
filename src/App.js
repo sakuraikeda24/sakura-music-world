@@ -206,7 +206,7 @@ yeah yeah`;
 
           <div className="hero-image-card">
             <img
-             src="/gallery/photo150.jpg"
+             src="/gallery/photo200.jpg"
               alt="Sakura hero"
             />
           </div>
