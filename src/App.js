@@ -46,12 +46,11 @@ export default function MusicVideoWebsite() {
       navAbout: "关于我",
       siteTitle: "池田樱子的音乐天地",
       introText1: "从“面具”到“池田樱子”",
-      introText2:
-        "十几年前，我是独立音乐人大男孩“面具”， 
+      introText2: `十几年前，我是独立音乐人大男孩“面具”， 
 完成两张专辑，23首原创歌曲。 
 
 十几年后，我摘下面具，成为“池田樱子”。 
-这些作品，在这里被重新表达。",
+这些作品，在这里被重新表达。`,
       playMusic: "播放音乐",
       musicTitle: "音乐作品",
       musicDesc: "这里会持续收录我的中文、日文和英文原创歌曲。",
@@ -62,8 +61,7 @@ export default function MusicVideoWebsite() {
       lifeDesc:
         "这里会展示我的生活照片和视频。点击任意内容后，可以查看更大的原始显示效果。",
       aboutTitle: "关于我",
-      aboutText:
-        "池田樱子
+      aboutText: `池田樱子
           十几年前，我曾以独立音乐人“面具”的名字创作并发表了两张原创专辑，共23首歌曲。
 那时的我，是一个男生。
 
@@ -105,7 +103,7 @@ export default function MusicVideoWebsite() {
 
 在这里，
 过去与未来，真实与技术，人与AI，
-共同构成一种新的音乐可能性。",
+共同构成一种新的音乐可能性。`,
       playSong: "播放歌曲",
       hideLyrics: "收起歌词",
       showLyrics: "查看歌词",
