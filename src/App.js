@@ -666,12 +666,6 @@ Or else I will suffer the blame inside`
 `
   },
   {
-    id: 10,
-    title: "Song 9",
-    file: "/song9.mp3",
-    lyrics: `这里写第九首歌的歌词`
-  },
-  {
     id: 9,
     title: "Stay in Your Arms",
     file: "/Stay in Your Arms.mp3",
@@ -709,6 +703,61 @@ Now I know I don’t need anything more
 When you smile I forget what came before
 Step by step and we’re slowly moving closer still
 Like a melody that time can’t ever kill`
+  },
+  {
+    id: 10,
+    title: "为你流泪我不后悔",
+    file: "/为你流泪我不后悔.mp3",
+    lyrics: `那一天 望着你的脸
+明知道 这是最后的相见
+
+心里面 依然还有千万个心愿
+无法和你一起 去实现
+
+那一天 看着你的眼
+看的见 那深深的疲倦
+
+想说句抱歉 你却已经走的太远
+注定了我的这一生 会为你失眠
+
+为你流泪 我不后悔
+早就知道要为你尝尽痛的滋味
+却始终无法不为你而心碎
+只好继续颓废
+
+为你流泪 我不后悔
+以后的每一天你叫我去思念谁
+独自守着你留给我的玫瑰
+从花瓣 到花蕊
+看它慢慢枯萎
+
+那一天 看着你的眼
+看的见 那深深的疲倦
+
+想说句抱歉 你却已经走的太远
+注定了我的这一生 会为你失眠
+
+为你流泪 我不后悔
+早就知道要为你尝尽痛的滋味
+却始终无法不为你而心碎
+只好继续颓废
+
+为你流泪 我不后悔
+以后的每一天你叫我去思念谁
+独自守着你留给我的玫瑰
+从花瓣 到花蕊
+看它慢慢枯萎
+
+为你流泪 我不后悔
+早就知道要为你尝尽痛的滋味
+却始终无法不为你而心碎
+只好继续颓废
+
+为你流泪 我不后悔
+以后的每一天你叫我去思念谁
+独自守着你留给我的玫瑰
+从花瓣 到花蕊
+看它慢慢枯萎`
   }
 ];
   const galleryItems = Array.from({ length: 50 }, (_, index) => ({
