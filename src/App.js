@@ -1492,15 +1492,14 @@ Vocal / 演唱 / 歌：AI`
 
         <div className="video-card">
   <div className="video-frame-wrap">
-    <iframe
-      className="video-frame"
-      src="https://player.bilibili.com/player.html?bvid=${video.bvid}&page=1&autoplay=0"
-      title="Music Video"
-      frameBorder="0"
-      allow="autoplay; fullscreen; picture-in-picture"
-      allowFullScreen
-      scrolling="no"
-      allow="fullscreen"
+ <iframe
+  className="video-frame"
+  src={`https://player.bilibili.com/player.html?bvid=${video.bvid}&page=1&autoplay=0`}
+  title={video.title}
+  frameBorder="0"
+  allow="fullscreen"
+  allowFullScreen
+  scrolling="no"
     />
   </div>
 </div>
