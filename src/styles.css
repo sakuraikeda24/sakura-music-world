@@ -356,6 +356,7 @@ text-align: center;
   line-height: 1.9;
   text-align: center;
   color: #5f4b53;
+  white-space: pre-wrap;
 }
 
 .footer {
