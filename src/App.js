@@ -1443,7 +1443,7 @@ Vocal / 演唱 / 歌：AI`
   galleryItems.push({
   id: 101,
   type: "bilibili",
-  bvid: "BV14nAGzMEbA",
+  bvid: "BV1t1QoBzEZ7",
   alt: "video 1",
   cover: "/gallery/photo201.jpg"
 });
