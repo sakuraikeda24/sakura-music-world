@@ -214,27 +214,304 @@ Vocal / 演唱 / 歌：AI
   },
   {
     id: 3,
-    title: "Song 3",
-    file: "/song3.mp3",
-    lyrics: `这里写第三首歌的歌词`
+    title: "Burn the whole damn world",
+    file: "/Burn the whole damn world.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）  
+English Lyrics (AI-assisted) / 英語の歌詞（AI補助）：—  
+Vocal / 演唱 / 歌：AI
+
+One lonely night I couldn't hide from voices in my mind
+So I let the chaos rise and leave the past far behind
+
+I chose this road although I knew it poisoned heart and soul
+Even if the storm would break the person I once controlled
+let it roll
+
+All I ever wanted was a quiet life that felt like home
+But every rule they wrote for me was never mine alone
+
+All those words are about the way a life is meant to be
+Shatter when the smallest doubt begins to set me free
+One crack — I see
+
+Some lives, Some dreams, Disappear into the night
+All the strength I gave them came back twisted into bitter spite
+
+If you can't, See the fire, hidden in my soul
+Why should I keep begging just to live inside your mold
+Better break the chains and tear apart your tight control
+
+All I ever wanted was a quiet life that felt like home
+But every rule they wrote for me was never mine alone
+
+All those words about the way a life is meant to be
+Shatter when the smallest doubt begins to set me free
+One crack — I see
+
+Some lives, Some dreams, Disappear into the night
+All the strength I gave them came back twisted into bitter spite
+
+If you can't, See the fire, hidden in my soul
+Why should I keep begging just to live inside your mold
+Better break the chains and tear apart your tight control
+
+
+If the world still hates me, wants me gone
+I'll fucking light the whole damn world on fire
+
+If the end of the world starts tonight
+I will watch it with a smile and light`
   },
   {
     id: 4,
-    title: "Song 4",
-    file: "/song4.mp3",
-    lyrics: `这里写第四首歌的歌词`
+    title: "好想和你在一起",
+    file: "/好想和你在一起.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）  
+English Lyrics (AI-assisted) / 英語の歌詞（AI補助）：—  
+Vocal / 演唱 / 歌：AI
+
+伤到了如今 终于让我看清 
+自己想要的幸福在哪里 
+这个世界也许 真的有奇迹 
+让我爱上身边的你
+
+既然选择你 就不会再犹豫 
+相扶到老是我们的约定 
+友谊最终变成 纯洁的爱情
+好好珍惜坚持到底 
+
+好想和你在一起 永远不分离
+好想你保护我为我挡风遮雨
+就算我任性耍我的坏脾气
+你也不会离我而去
+
+所以我有你疼惜 值得我抱紧
+在你怀里爱我直到下个世纪
+就算能拥有全世界
+也不如一个你 更让我开心
+
+既然选择你 就不会再犹豫 
+相扶到老是我们的约定 
+友谊最终变成 纯洁的爱情
+好好珍惜坚持到底 
+
+好想和你在一起 永远不分离
+好想你保护我为我挡风遮雨
+就算我任性耍我的坏脾气
+你也不会离我而去
+
+所以我有你疼惜 值得我抱紧
+在你怀里爱我直到下个世纪
+就算能拥有全世界
+也不如一个你 更让我开心
+
+好想和你在一起 永远不分离
+好想你保护我为我挡风遮雨
+就算我任性耍我的坏脾气
+你也不会离我而去
+
+所以我有你疼惜 值得我抱紧
+在你怀里爱我直到下个世纪
+就算能拥有全世界
+也不如一个你 更让我开心
+`
   },
   {
     id: 5,
-    title: "Song 5",
-    file: "/song5.mp3",
-    lyrics: `这里写第五首歌的歌词`
+    title: "乱世の剣と影",
+    file: "/乱世の剣と影.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）  
+English Lyrics (AI-assisted) / 英語の歌詞（AI補助）：—  
+Vocal / 演唱 / 歌：AI
+
+義経弁慶 雪舞う空に
+鬼も侍も 影を連ねて
+千の誓いを 結ぶ縁に
+遠い運命 一線で結んで
+
+南の将 北の剣士 西の忍び 東の風で
+秘伝の巻物 奪い合って
+一太刀交え 天を裂いて
+影と影とが 火花散らして
+
+老いた剣士もなお恋して
+百年越えて 想い抱いて
+若き浪人も負けはしないで
+禁じられた恋 時代越えて
+
+武蔵が振るう 二天一流
+奥義を極め なお求めて
+権と欲に溺れた者は
+己を断ち 刃で昇って
+
+一番憧れ 忍びの伝で
+幾千の術を 変えて舞って
+どれだけ読んでも 届かなくて
+八方自在に 姿を変えて
+
+次に名高き 半妖の剣で
+愚かに見えても 縁を結んで
+夢を幾度も 見続けて
+ただ一人だけ 巡り逢えなくて
+
+似た運命を 背負う僧で
+迷いの中から 姫を救って
+三人の契り 命を賭けて
+民のためにと 身を捧げて
+
+老いた剣士もなお恋して
+百年越えて 想い抱いて
+若き浪人も負けはしないで
+禁じられた恋 時代越えて
+
+武蔵が振るう 二天一流
+奥義を極め なお求めて
+権と欲に溺れた者は
+己を断ち 刃で昇って
+
+一番憧れ 忍びの伝で
+幾千の術を 変えて舞って
+どれだけ読んでも 届かなくて
+八方自在に 姿を変えて
+
+次に名高き 半妖の剣で
+愚かに見えても 縁を結んで
+夢を幾度も 見続けて
+ただ一人だけ 巡り逢えなくて
+
+似た運命を 背負う僧で
+迷いの中から 姫を救って
+三人の契り 命を賭けて
+民のためにと 身を捧げて`
   },
   {
     id: 6,
-    title: "Song 6",
-    file: "/song6.mp3",
-    lyrics: `这里写第六首歌的歌词`
+    title: "Bad Girl's Game",
+    file: "/bad girl.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）  
+English Lyrics (AI-assisted) / 英語の歌詞（AI補助）：—  
+Vocal / 演唱 / 歌：AI
+
+Go go, Come on
+
+I'm really that cold now
+I'm really that careless
+I'm really just leaving you
+
+Even if I'm restless
+Even if I'm heartless
+What are you gonna do
+
+No matter how you try
+We simply can't go on
+No party forever lasts
+
+I'm telling you just quit
+Or you will only hurt
+I never loved you at all
+
+Wasn't it said before
+Just play and that's enough
+Why do you copy my empty words
+After we said goodbye
+No strings left behind
+Just go find somebody who loves you more
+
+Wasn't it said before
+Just play and that's enough
+You're really the biggest fool alive
+You knew that everything
+I said meant nothing
+Every word I spoke could change overnight
+
+Let it go
+Don't see me again
+Or guilt will be chasing my soul
+
+Let it go now
+Don't drag it along
+From now on just forget me
+
+Or else I will suffer the blame inside
+
+This time you miscalculated
+I left without any chains
+All of your sorrow and pain
+Has nothing to do with me
+A girl like me
+Was only playing with you
+Stop making scenes again
+Pack up your bags and leave
+You lost nothing, I gained nothing
+I'm not that perfect too
+I'm strange, you're difficult
+No one betrayed the other
+Two lonely hearts pretending romance together
+We said it's just a game
+Do your words still count the same
+
+Don't drag it on again
+Let's simply end it here
+I'll have another lover
+You'll find another one too
+Some day if we meet
+Neither will feel alone
+There won't be too much pain
+Just maybe a small regret
+Time will erase the scars
+Leaving half of the past
+Forgetting isn't that hard
+Just let the river flow
+Step out from all that dark
+Turn back and face the road
+Maybe it wasn't love
+Just only a habit
+
+I'm really that cold now
+I'm really that careless
+I'm really just leaving you
+
+Even if I'm restless
+Even if I'm heartless
+What are you gonna do 哦哦哦
+
+No matter how you try
+We simply can't go on
+No party forever lasts — yeah yeah yeah
+
+I'm telling you just quit
+Or you will only hurt
+I never loved you at all 哦哦哦
+
+Wasn't it said before
+Just play and that's enough
+Why do you copy my empty words
+After we said goodbye
+No strings left behind
+Just go find somebody who loves you more
+
+Wasn't it said before
+Just play and that's enough
+You're really the biggest fool alive
+You knew that everything
+I said meant nothing
+Every word I spoke could change overnight
+
+Let it go
+Don't see me again
+Or guilt will be chasing my soul
+
+Let it go now
+Don't drag it along
+From now on just forget me
+
+Or else I will suffer the blame inside
+
+Or else I will suffer the blame inside`
   },
   {
     id: 7,
