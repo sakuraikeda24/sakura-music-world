@@ -907,7 +907,7 @@ Vocal / 演唱 / 歌：AI
 陰と陽とで　抗えなくて
 近づいて　香りだけ求めて
 気づけば君は　白髪のままで`
-  }
+  },
   {
     id: 11,
     title: "song 11",
@@ -915,7 +915,7 @@ Vocal / 演唱 / 歌：AI
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
 Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
 Vocal / 演唱 / 歌：AI`
-  }
+  },
   {
     id: 12,
     title: "song 12",
@@ -923,7 +923,7 @@ Vocal / 演唱 / 歌：AI`
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
 Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
 Vocal / 演唱 / 歌：AI`
-  }
+  },
   {
     id: 13,
     title: "song 13",
@@ -931,7 +931,7 @@ Vocal / 演唱 / 歌：AI`
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
 Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
 Vocal / 演唱 / 歌：AI`
-  }
+  },
   {
     id: 14,
     title: "song 14",
@@ -939,7 +939,7 @@ Vocal / 演唱 / 歌：AI`
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
 Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
 Vocal / 演唱 / 歌：AI`
-  }
+  },
   {
     id: 15,
     title: "song 15",
@@ -947,7 +947,7 @@ Vocal / 演唱 / 歌：AI`
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
 Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
 Vocal / 演唱 / 歌：AI`
-  }
+  },
   {
     id: 16,
     title: "song 16",
@@ -955,7 +955,7 @@ Vocal / 演唱 / 歌：AI`
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
 Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
 Vocal / 演唱 / 歌：AI`
-  }
+  },
   {
     id: 17,
     title: "song 17",
@@ -963,7 +963,7 @@ Vocal / 演唱 / 歌：AI`
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
 Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
 Vocal / 演唱 / 歌：AI`
-  }
+  },
   {
     id: 18,
     title: "song 18",
@@ -971,7 +971,7 @@ Vocal / 演唱 / 歌：AI`
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
 Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
 Vocal / 演唱 / 歌：AI`
-  }
+  },
   {
     id: 19,
     title: "song 19",
@@ -979,7 +979,7 @@ Vocal / 演唱 / 歌：AI`
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
 Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
 Vocal / 演唱 / 歌：AI`
-  }
+  },
   {
     id: 20,
     title: "song 20",
@@ -987,7 +987,7 @@ Vocal / 演唱 / 歌：AI`
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
 Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
 Vocal / 演唱 / 歌：AI`
-  }
+  },
   {
     id: 21,
     title: "song 21",
@@ -995,7 +995,7 @@ Vocal / 演唱 / 歌：AI`
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
 Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
 Vocal / 演唱 / 歌：AI`
-  }
+  },
   {
     id: 22,
     title: "song 22",
@@ -1003,7 +1003,7 @@ Vocal / 演唱 / 歌：AI`
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
 Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
 Vocal / 演唱 / 歌：AI`
-  }
+  },
   {
     id: 23,
     title: "song 23",
@@ -1011,7 +1011,7 @@ Vocal / 演唱 / 歌：AI`
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
 Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
 Vocal / 演唱 / 歌：AI`
-  }
+  },
   {
     id: 24,
     title: "song 24",
