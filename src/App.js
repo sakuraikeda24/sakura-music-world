@@ -62,7 +62,8 @@ alongside selected AI-generated works that I believe carry artistic value.
 
 Sakura Music World is not just a platform for music.
 It is a space where original ideas, evolving tools, and time come together —
-to shape music into its most authentic form. `,
+to shape music into its most authentic form. 
+`,
       playSong: "Play Song",
       hideLyrics: "Hide Lyrics",
       showLyrics: "Show Lyrics",
@@ -1019,7 +1020,7 @@ Vocal / 演唱 / 歌：AI`
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
 Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
 Vocal / 演唱 / 歌：AI`
-  }
+  },
 ];
   const galleryItems = Array.from({ length: 50 }, (_, index) => ({
   id: index + 1,
