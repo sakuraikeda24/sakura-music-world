@@ -117,7 +117,7 @@ export default function MusicVideoWebsite() {
       navVideos: "音楽映像",
       navLife: "ギャラリー",
       navAbout: "私について",
-      siteTitle: "池田さくらの音楽",
+      siteTitle: "池田さくらの音楽世界",
       introText1: "私のオリジナル音楽、日々の瞬間、そして創作の世界。",
       introText2:
         "歌、映像、記憶、そして一つひとつの作品の背景を残していく、私だけの場所です。",
@@ -132,8 +132,57 @@ export default function MusicVideoWebsite() {
       lifeDesc:
         "日常の写真や動画をまとめた場所です。クリックすると大きなサイズで見ることができます。",
       aboutTitle: "私について",
-      aboutText:
-        "ここは私の個人的な音楽空間です。歌、映像の記録、そして音楽と共に歩んできた創作の旅をここで分かち合います。",
+      aboutText: `池田さくら
+
+十数年前、私は「面具（めんぐ）」という名前で活動していたインディーズ音楽家でした。
+当時の私は男性で、2枚のアルバム、全23曲のオリジナル作品を発表しました。
+
+作曲・作詞・歌唱のすべてを一人で手がけ、
+最も原始的な形で、自分の感情と表現を音楽として残していました。
+それは、確かに大切で、かけがえのない始まりでした。
+
+今あらためて当時の作品を振り返ると、
+その純粋さには今でも価値を感じています。
+しかし同時に、はっきりと分かっていることがあります。
+
+当時の制作環境や表現力の限界の中で生まれたそれらの作品は、
+私が本当に表現したかった形そのものではありませんでした。
+それは「その時点で成立していた一つの形」に過ぎなかったのです。
+そして、「面具」という存在もまた、同じでした。
+
+十数年が過ぎ、「面具」というアイデンティティは終わりました。
+
+私は仮面を外し、変化を経て、
+今は「池田さくら」として存在しています。
+
+外側は変わりましたが、
+音楽で自分を表現したいという衝動は、ずっと変わっていません。
+
+そしてAI技術の登場によって、
+私は新しい表現の方法に出会いました。
+
+それは単なるツールではなく、
+自分の内側にある音やイメージを、より正確に現実へと引き出すための“拡張”です。
+
+だからこそ、私が最初に選んだのは「新しく作ること」ではなく、
+「過去に戻ること」でした。
+
+23曲のオリジナル作品をAIによって再構築し、
+さらに日本語と英語へと展開することで、
+それらの音楽に新たな生命を与えました。
+
+これは単なるカバーではありません。
+過去の表現を、もう一度完成させるための再構築です。
+
+これからも私はオリジナル作品を発表し続けていきます。
+同時に、AIによって生まれた作品の中で、私自身が価値を感じたものも共有していきます。
+
+「池田さくらの音楽世界」は、単なる音楽サイトではありません。
+それは、私とこの時代が共に作り上げる表現の実験場です。
+
+ここでは、
+過去と未来、現実とテクノロジー、人とAIが交わり、
+新しい音楽の可能性が生まれていきます。`,
       playSong: "再生",
       hideLyrics: "歌詞を閉じる",
       showLyrics: "歌詞を見る",
@@ -151,8 +200,7 @@ export default function MusicVideoWebsite() {
     title: "破茧成火",
     file: "/破茧成火.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
-Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）  
-English Lyrics (AI-assisted) / 英語の歌詞（AI補助）：—  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら） 
 Vocal / 演唱 / 歌：AI
 
 终于一天沉默的我不再隐藏真的自我
@@ -205,7 +253,6 @@ yeah yeah`
     file: "/終わらない終末.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
 Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）  
-English Lyrics (AI-assisted) / 英語の歌詞（AI補助）：—  
 Vocal / 演唱 / 歌：AI
 
 今ここに立っている
@@ -312,8 +359,7 @@ I will watch it with a smile and light`
     title: "好想和你在一起",
     file: "/好想和你在一起.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
-Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）  
-English Lyrics (AI-assisted) / 英語の歌詞（AI補助）：—  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
 Vocal / 演唱 / 歌：AI
 
 伤到了如今 终于让我看清 
@@ -368,7 +414,6 @@ Vocal / 演唱 / 歌：AI
     file: "/乱世の剣と影.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
 Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）  
-English Lyrics (AI-assisted) / 英語の歌詞（AI補助）：—  
 Vocal / 演唱 / 歌：AI
 
 義経弁慶 雪舞う空に
@@ -561,7 +606,11 @@ Or else I will suffer the blame inside`
     id: 7,
     title: "一缕残魂随君在",
     file: "/一缕残魂随君在.mp3",
-    lyrics: `青灯孤影里 我魂归故梦成殇
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）    
+Vocal / 演唱 / 歌：AI
+
+青灯孤影里 我魂归故梦成殇
 孤城之上 寒云压月 夜色如霜
 纵是风更狂 雪更急 归路已凉
 人世间 只剩情长
@@ -614,7 +663,11 @@ Or else I will suffer the blame inside`
     id: 8,
     title: "友よ、またどこかで",
     file: "/友よ、またどこかで .mp3",
-    lyrics: `君はただ僕を　友と呼んだだけ
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）  
+Vocal / 演唱 / 歌：AI
+
+君はただ僕を　友と呼んだだけ
 なのにこの胸は　今でも消えない
 
 最後の一瞬　何が見えたのか
@@ -662,14 +715,18 @@ Or else I will suffer the blame inside`
 来世でもまた　出会えるといい
 
 来世でもまた　友でいられる
- 
 `
   },
   {
     id: 9,
     title: "Stay in Your Arms",
     file: "/Stay in Your Arms.mp3",
-    lyrics: `Lately I feel something deep inside
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）  
+English Lyrics (AI-assisted) / 英語の歌詞（AI補助）：—  
+Vocal / 演唱 / 歌：AI
+
+Lately I feel something deep inside
 Like a little spark I just can’t hide
 Every moment when you’re next to me
 Turns the ordinary into a dream
@@ -708,7 +765,11 @@ Like a melody that time can’t ever kill`
     id: 10,
     title: "为你流泪我不后悔",
     file: "/为你流泪我不后悔.mp3",
-    lyrics: `那一天 望着你的脸
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
+Vocal / 演唱 / 歌：AI
+
+那一天 望着你的脸
 明知道 这是最后的相见
 
 心里面 依然还有千万个心愿
@@ -758,6 +819,174 @@ Like a melody that time can’t ever kill`
 独自守着你留给我的玫瑰
 从花瓣 到花蕊
 看它慢慢枯萎`
+  }
+     {
+    id: 11,
+    title: "彼岸に残る魂（たましい）",
+    file: "/彼岸に残る魂（たましい）.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
+Vocal / 演唱 / 歌：AI
+
+青き灯の影に　我は夢へと還って
+孤城の上　寒き雲　月を隠して
+風は荒れて　雪は急ぎ　道は冷えて
+この世には　情だけ残って
+
+命は無常で　一念で生死は分かれて
+君と出会い　それがすべての意味で
+刃の光　一瞬で時を裂いて
+残るのは　魂だけ寄り添って
+
+天の彼方で　君の涙見つめて
+すべて捨てて　君のもとへ飛んで
+守りたくて　もう傷つけさせなくて
+手を伸ばしても　触れられなくて
+
+どれほどに　狂いそうになって
+陰と陽とで　抗えなくて
+近づいて　香りだけ求めて
+気づけば君は　白髪のままで
+
+命は無常で　一念で生死は分かれて
+君と出会い　それがすべての意味で
+刃の光　一瞬で時を裂いて
+残るのは　魂だけ寄り添って
+
+天の彼方で　君の涙見つめて
+すべて捨てて　君のもとへ飛んで
+守りたくて　もう傷つけさせなくて
+手を伸ばしても　触れられなくて
+
+どれほどに　狂いそうになって
+陰と陽とで　抗えなくて
+近づいて　香りだけ求めて
+気づけば君は　白髪のままで
+
+ただ君のそばで　彷徨い続けて
+魂が散っても　構わなくて
+
+天の彼方で　君の涙見つめて
+すべて捨てて　君のもとへ飛んで
+守りたくて　もう傷つけさせなくて
+手を伸ばしても　触れられなくて
+
+どれほどに　狂いそうになって
+陰と陽とで　抗えなくて
+近づいて　香りだけ求めて
+気づけば君は　白髪のままで`
+  }
+  {
+    id: 11,
+    title: "song 11",
+    file: "/song 11.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
+Vocal / 演唱 / 歌：AI`
+  }
+  {
+    id: 11,
+    title: "song 11",
+    file: "/song 11.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
+Vocal / 演唱 / 歌：AI`
+  }
+  {
+    id: 11,
+    title: "song 11",
+    file: "/song 11.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
+Vocal / 演唱 / 歌：AI`
+  }
+  {
+    id: 11,
+    title: "song 11",
+    file: "/song 11.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
+Vocal / 演唱 / 歌：AI`
+  }
+  {
+    id: 11,
+    title: "song 11",
+    file: "/song 11.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
+Vocal / 演唱 / 歌：AI`
+  }
+  {
+    id: 11,
+    title: "song 11",
+    file: "/song 11.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
+Vocal / 演唱 / 歌：AI`
+  }
+  {
+    id: 11,
+    title: "song 11",
+    file: "/song 11.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
+Vocal / 演唱 / 歌：AI`
+  }
+  {
+    id: 11,
+    title: "song 11",
+    file: "/song 11.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
+Vocal / 演唱 / 歌：AI`
+  }
+  {
+    id: 11,
+    title: "song 11",
+    file: "/song 11.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
+Vocal / 演唱 / 歌：AI`
+  }
+  {
+    id: 11,
+    title: "song 11",
+    file: "/song 11.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
+Vocal / 演唱 / 歌：AI`
+  }
+  {
+    id: 11,
+    title: "song 11",
+    file: "/song 11.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
+Vocal / 演唱 / 歌：AI`
+  }
+  {
+    id: 11,
+    title: "song 11",
+    file: "/song 11.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
+Vocal / 演唱 / 歌：AI`
+  }
+  {
+    id: 11,
+    title: "song 11",
+    file: "/song 11.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
+Vocal / 演唱 / 歌：AI`
+  }
+  {
+    id: 11,
+    title: "song 11",
+    file: "/song 11.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
+Vocal / 演唱 / 歌：AI`
   }
 ];
   const galleryItems = Array.from({ length: 50 }, (_, index) => ({
