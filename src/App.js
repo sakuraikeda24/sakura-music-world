@@ -911,11 +911,71 @@ Vocal / 演唱 / 歌：AI
   },
   {
     id: 11,
-    title: "song 11",
-    file: "/song 11.mp3",
+    title: "Sweet Lies",
+    file: "/Sweet Lies.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
-Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
-Vocal / 演唱 / 歌：AI`
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）
+English Lyrics (AI-assisted) / 英語の歌詞（AI補助）：—  
+Vocal / 演唱 / 歌：AI
+
+I know that I'm just dreaming in the daytime
+Someone like you would never really be mine
+All of these thoughts, I got no one to blame
+Maybe it's me, playing my own game
+
+I know it all but still I can't let go
+Just a few words and I lose control
+Do you love me? I already know
+I'm just lying to myself again, I know
+
+Love, love, I fall into your love
+Only at the end I wake up
+I was nothing but dust in your world
+Why am I still waiting alone
+
+Love, love, you say it like a game
+Is this what you call your care
+Love, love, your love
+Just a backup plan, I'm the fool you play
+
+Hey, hey, don't think I'm just naive
+I can see more than you believe
+If you find someone better than me
+You would leave without a second beat
+Deep inside I already see
+Just wish that day won't come too soon to me
+At least let me feel this once completely
+Even if tomorrow you walk away from me
+
+I know that I'm just dreaming in the daytime
+Someone like you would never really be mine
+All of these thoughts, I got no one to blame
+Maybe it's me, playing my own game
+
+I know it all but still I can't let go
+Just a few words and I lose control
+Do you love me? I already know
+I'm just lying to myself again, I know
+
+Love, love, I fall into your love
+Only at the end I wake up
+I was nothing but dust in your world
+Why am I still waiting alone
+
+Love, love, you say it like a game
+Is this what you call your care
+Love, love, your love
+Just a backup plan, I'm the fool you play
+
+Love, love, I fall into your love
+Only at the end I wake up
+I was nothing but dust in your world
+Why am I still waiting alone
+
+Love, love, you say it like a game
+Is this what you call your care
+Love, love, your love
+Just a backup plan, I'm the fool you play`
   },
   {
     id: 12,
