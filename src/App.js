@@ -29,8 +29,40 @@ export default function MusicVideoWebsite() {
       lifeDesc:
         "A collection of daily photos and videos. Click any item to view it in a larger size.",
       aboutTitle: "About Me",
-      aboutText:
-        "This is my personal music space, where I share songs, visual memories, and my creative journey through music.",
+      aboutText: `Sakura Ikeda
+
+All the music presented here is originally composed and written by me, unless otherwise explicitly marked as fully AI-generated.
+
+Over a decade ago, I created and released two albums — 23 original songs in total.
+Every melody, every lyric, every structure comes from my own work.
+
+What has changed today is not the authorship,
+but the way these works are expressed.
+
+At the time, my ability to realize those ideas was limited by technical conditions and vocal constraints.
+I could write the music I envisioned, but I could not fully deliver how it should sound.
+
+With the emergence of AI, I finally found a way to bridge that gap.
+
+AI does not create my music.
+It gives voice to it.
+
+The first thing I chose to do was to return to those 23 songs —
+to reinterpret them, refine them, and bring them closer to what they were always meant to be.
+
+They have now been re-expressed with AI vocals,
+and further developed into Japanese and English versions,
+allowing them to exist beyond a single language.
+
+This is not a replacement of the original work,
+but a continuation — a process of completing what was once unfinished.
+
+Moving forward, I will continue to release my own original compositions,
+alongside selected AI-generated works that I believe carry artistic value.
+
+Sakura Music World is not just a platform for music.
+It is a space where original ideas, evolving tools, and time come together —
+to shape music into its most authentic form. `,
       playSong: "Play Song",
       hideLyrics: "Hide Lyrics",
       showLyrics: "Show Lyrics",
