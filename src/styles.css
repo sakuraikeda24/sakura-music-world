@@ -363,14 +363,23 @@ text-align: center;
   box-shadow: 0 8px 24px rgba(231, 84, 128, 0.05);
 }
 
-.about-box p {
-  margin: 0;
-  line-height: 1.9;
-  text-align: center;
-  color: #5f4b53;
-  white-space: pre-wrap;
+.about-box {
+  background: linear-gradient(
+    135deg,
+    #e40303 0%,
+    #ff8c00 18%,
+    #ffed00 36%,
+    #008026 54%,
+    #24408e 72%,
+    #732982 100%
+  );
+  border: none;
+  border-radius: 22px;
+  padding: 30px 24px;
+  box-shadow: 0 12px 28px rgba(80, 40, 120, 0.18);
+  .about-box .section-heading h2 {
+  color: white;
 }
-
 .footer {
   text-align: center;
   margin-top: 34px;
