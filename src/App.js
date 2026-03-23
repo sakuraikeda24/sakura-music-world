@@ -852,7 +852,7 @@ Vocal / 演唱 / 歌：AI
 独自守着你留给我的玫瑰
 从花瓣 到花蕊
 看它慢慢枯萎`
-  }
+  },
      {
     id: 11,
     title: "彼岸に残る魂（たましい）",
@@ -1020,7 +1020,7 @@ Vocal / 演唱 / 歌：AI`
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
 Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
 Vocal / 演唱 / 歌：AI`
-  },
+  }
 ];
   const galleryItems = Array.from({ length: 50 }, (_, index) => ({
   id: index + 1,
