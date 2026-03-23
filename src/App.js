@@ -64,8 +64,7 @@ export default function MusicVideoWebsite() {
       aboutTitle: "关于我",
       aboutText:
         "池田樱子
-
-十几年前，我曾以独立音乐人“面具”的名字创作并发表了两张原创专辑，共23首歌曲。
+          十几年前，我曾以独立音乐人“面具”的名字创作并发表了两张原创专辑，共23首歌曲。
 那时的我，是一个男生。
 
 我独自完成了作曲、作词与演唱的全部过程，用最原始的方式记录表达与情绪。
@@ -106,8 +105,7 @@ export default function MusicVideoWebsite() {
 
 在这里，
 过去与未来，真实与技术，人与AI，
-共同构成一种新的音乐可能性。
-",
+共同构成一种新的音乐可能性。",
       playSong: "播放歌曲",
       hideLyrics: "收起歌词",
       showLyrics: "查看歌词",
