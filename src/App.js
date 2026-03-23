@@ -1123,27 +1123,169 @@ Vocal / 演唱 / 歌：AI
   },
   {
     id: 14,
-    title: "song 14",
-    file: "/song 14.mp3",
+    title: "A Beautiful Soul",
+    file: "/A Beautiful Soul.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
 Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
-Vocal / 演唱 / 歌：AI`
+English Lyrics (AI-assisted) / 英語の歌詞（AI補助）：—  
+Vocal / 演唱 / 歌：AI
+
+Oh dear, you never said that you knew;
+You were just showing your love to me;
+At that moment when I felt it, I was melting;
+Walking beside you was where I wanted to be.
+
+Oh dear, you didn't give any promise;
+I understand you only wanted to be sure;
+It felt so natural, love just happened, never forced;
+Our connection simply grew and became secure.
+
+The love's gonna arrive here.
+
+You said I am beautiful, you said I am beautiful
+You don't care if I am perfect or not, not at all;
+
+You said I am beautiful, you said I am beautiful (you're also beautiful)
+You only care about my soul, not the names they call, when they judge at all.
+
+Oh dear, our connection keeps growing more;
+For my life, you are my everything now;
+You know I am special, no matter how soft or loud;
+Please stay strong, stay strong and proud.
+
+No one can bring us down.
+
+You said I am beautiful, you said I am beautiful;
+You don't care if I am perfect or not, not at all;
+
+You said I am beautiful, you said I am beautiful;
+You only care about my soul, not the names they call, when they judge at all;
+
+You said I am beautiful, you're also beautiful;
+You don't care if I am perfect or not, not at all;
+
+You said I am beautiful, you're also beautiful;
+You only care about my soul, not the names they call, when they judge at all.
+
+All I see in you now,
+A beautiful soul`
   },
   {
     id: 15,
-    title: "song 15",
-    file: "/song 15.mp3",
+    title: "我们有你",
+    file: "/我们有你.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
 Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
-Vocal / 演唱 / 歌：AI`
+Vocal / 演唱 / 歌：AI
+
+若没有你  我们无法看到希望在哪里 
+到处一片狼藉 乌烟瘴气 怎么也洗不干净
+ 
+若没有你  我们不敢奢望还会有奇迹 
+你宁可身处险境 也在所不惜 才还我们明净天地
+   
+若没有你  历史的耻辱我们永不能洗去  
+那些腥风血雨 虽已成过去 但我们却始终牢记
+       
+若没有你  全世界还以为我们好欺凌  
+现在头抬得起 腰挺得硬 再也没人敢瞧我们不起
+
+我们有你  无所畏惧 
+龙的神力  随着我们中华民族而觉醒
+          
+我们有你  又有何惧 
+从今天起  谁也无法阻挡我们的崛起
+
+若没有你  我们没有面对明天的勇气  
+那些莫名委屈 生灵涂地 正已经随风远去
+
+若没有你  我们早习惯别人的冷言冷语  
+现在神州大地 有浩然正气  终于能扬眉吐气
+                                   
+若没有你  上下五千年也无用武之地   
+梦想中华夏统一  收复失地  再不是遥不可及 
+                                    
+若没有你  再多光环也只是断章取义  
+只有长存的正气  无畏的决心 才能在自己的路上前进
+
+我们有你  信心无尽  
+再多艰辛  看到希望我们就不会放弃  
+
+我们有你  心有底气  
+繁荣安定  就是我们勇敢前行的动力
+
+我们有你  无所畏惧 
+龙的神力  随着我们中华民族而觉醒
+          
+我们有你  又有何惧 
+从今天起  谁也无法阻挡我们的崛起
+
+中华儿女  自强不息  
+从明天起  俯瞰全世界在我们的脚底  
+
+俯瞰全世界在我们的脚底`
   },
   {
     id: 16,
-    title: "song 16",
-    file: "/song 16.mp3",
+    title: "東京のきらめく恋",
+    file: "/東京のきらめく恋.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
 Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
-Vocal / 演唱 / 歌：AI`
+Vocal / 演唱 / 歌：AI
+
+東京の夜で出会えた二人
+君は笑顔で僕は心ひらく
+光の街で夢のような時
+空に広がるきらめく歌
+
+風に揺られて二人は笑うよ
+君の瞳には星が輝く
+手をつないで歩く渋谷道
+ずっとこのままいられる気
+
+君に対してあふれるほどの幸せ
+心弾むリズム止ま
+らないよよよ僕が見つけ
+た大切なぬくもり
+
+君といるだけで全部輝く
+今でも君との毎日が宝物
+忘れられないこの時の
+きらめきよよ
+
+気づけば知らずに僕は恋していたよ
+この瞬間をずっと抱きしめたい
+
+風に揺られて二人は笑うよ
+君の瞳には星が輝く
+手をつないで歩く渋谷道
+ずっとこのままいられる気
+
+君に対してあふれるほどの幸せ
+心弾むリズム止ま
+らないよよよ僕が見つけ
+た大切なぬくもり
+
+君といるだけで全部輝く
+今でも君との毎日が宝物
+忘れられないこの時の
+きらめきよよ
+
+気づけば知らずに僕は恋していたよ
+この瞬間をずっと抱きしめたい
+
+君に対してあふれるほどの幸せ
+心弾むリズム止ま
+らないよよよ僕が見つけ
+た大切なぬくもり
+
+君といるだけで全部輝く
+今でも君との毎日が宝物
+忘れられないこの時の
+きらめきよよ
+
+気づけば知らずに僕は恋していたよ
+この瞬間をずっと抱きしめたい`
   },
   {
     id: 17,
