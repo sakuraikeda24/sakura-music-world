@@ -613,7 +613,7 @@ Or else I will suffer the blame inside`
   {
     id: 8,
     title: "友よ、またどこかで",
-    file: "/友よ、またどこかで.mp3",
+    file: "/友よ、またどこかで .mp3",
     lyrics: `君はただ僕を　友と呼んだだけ
 なのにこの胸は　今でも消えない
 
@@ -673,9 +673,42 @@ Or else I will suffer the blame inside`
   },
   {
     id: 10,
-    title: "Song 10",
-    file: "/song10.mp3",
-    lyrics: `这里写第十首歌的歌词`
+    title: "Stay in Your Arms",
+    file: "/Stay in Your Arms.mp3",
+    lyrics: `Lately I feel something deep inside
+Like a little spark I just can’t hide
+Every moment when you’re next to me
+Turns the ordinary into a dream
+
+Now I know I don’t need anything more
+When you smile I forget what came before
+Step by step and we’re slowly moving closer still
+Like a melody that time can’t ever kill
+
+I just wanna stay here in your warm arms
+Keep me safe and protect me from the storms
+Even if I sometimes act a little wild
+You still stay and you never leave my side
+
+So I know I’ve got something real to hold
+In your love I don’t ever feel alone
+Even if I had the whole wide world with me
+Nothing feels as good as you to me
+
+Now I know I don’t need anything more
+When you smile I forget what came before
+Step by step and we’re slowly moving closer still
+Like a melody that time can’t ever kill
+
+So I know I’ve got something real to hold
+In your love I don’t ever feel alone
+Even if I had the whole wide world with me
+Nothing feels as good as you to me
+
+Now I know I don’t need anything more
+When you smile I forget what came before
+Step by step and we’re slowly moving closer still
+Like a melody that time can’t ever kill`
   }
 ];
   const galleryItems = Array.from({ length: 50 }, (_, index) => ({
