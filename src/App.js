@@ -339,7 +339,7 @@ Vocal / 演唱 / 歌：AI
   {
     id: 3,
     title: "Burn the whole damn world",
-    file: "/Burn the Whole Damn World.mp3",
+    file: "https://media.sakuramusicworld.com/Burn the Whole Damn World.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
 Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）  
 English Lyrics (AI-assisted) / 英語の歌詞（AI補助）：—  
