@@ -3068,11 +3068,24 @@ const stopAllMedia = (currentElement) => {
     />
   </div>
 ) : (
-  <audio
+<audio
   controls
   className="audio-player"
   ref={index === featuredSongIndex ? featuredAudioRef : null}
   onPlay={(e) => stopAllMedia(e.currentTarget)}
+  onEnded={() => {
+    const nextSong = songs[index + 1];
+    if (nextSong) {
+      const next = document.getElementById(`song-${nextSong.id}`);
+      if (next) {
+        const nextAudio = next.querySelector("audio");
+        if (nextAudio) {
+          nextAudio.play();
+          next.scrollIntoView({ behavior: "smooth", block: "center" });
+        }
+      }
+    }
+  }}
 >
     <source src={song.file} type="audio/mpeg" />
   </audio>
