@@ -283,7 +283,7 @@ yeah yeah`
   {
     id: 2,
     title: "終わらない終末",
-    file: "/終わらない終末.mp3",
+    file: "https://media.sakuramusicworld.com/Owari.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
 Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）  
 Vocal / 演唱 / 歌：AI
@@ -444,7 +444,7 @@ Vocal / 演唱 / 歌：AI
   {
     id: 5,
     title: "乱世の剣と影",
-    file: "/乱世の剣と影.mp3",
+    file: "https://media.sakuramusicworld.com/Kenga.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
 Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）  
 Vocal / 演唱 / 歌：AI
@@ -695,7 +695,7 @@ Vocal / 演唱 / 歌：AI
   {
     id: 8,
     title: "友よ、またどこかで",
-    file: "/友よ、またどこかで .mp3",
+    file: "https://media.sakuramusicworld.com/Yujin.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
 Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）  
 Vocal / 演唱 / 歌：AI
@@ -856,7 +856,7 @@ Vocal / 演唱 / 歌：AI
      {
     id: 11,
     title: "彼岸に残る魂（たましい）",
-    file: "/彼岸に残る魂（たましい）.mp3",
+    file: "https://media.sakuramusicworld.com/Tamashi.mp3.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
 Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
 Vocal / 演唱 / 歌：AI
@@ -1061,7 +1061,7 @@ Vocal / 演唱 / 歌：AI
   {
     id: 14,
     title: "きえないきお",
-    file: "/きえないきお.mp3",
+    file: "https://media.sakuramusicworld.com/Kienai.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
 Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
 Vocal / 演唱 / 歌：AI
@@ -1228,7 +1228,7 @@ Vocal / 演唱 / 歌：AI
   {
     id: 17,
     title: "東京のきらめく恋",
-    file: "/東京のきらめく恋.mp3",
+    file: "https://media.sakuramusicworld.com/Tokyo.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
 Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
 Vocal / 演唱 / 歌：AI
