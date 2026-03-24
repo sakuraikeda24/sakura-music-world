@@ -231,7 +231,7 @@ to shape music into its most authentic form.
   {
     id: 1,
     title: "破茧成火",
-    file: "https://sakura-media-1415304760.cos.ap-hongkong.myqcloud.com/%E7%A0%B4%E8%8C%A7%E6%88%90%E7%81%AB.mp3",
+    file: "https://media.sakuramusicworld.com/%E7%A0%B4%E8%8C%A7%E6%88%90%E7%81%AB.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
 Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら） 
 Vocal / 演唱 / 歌：AI
