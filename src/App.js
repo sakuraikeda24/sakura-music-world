@@ -2932,7 +2932,13 @@ const videos = [
       }
     }, 350);
   };
-
+const stopAllMedia = (currentElement) => {
+  document.querySelectorAll("audio, video").forEach((media) => {
+    if (media !== currentElement) {
+      media.pause();
+    }
+  });
+};
   return (
     <div className="page">
       <main className="container">
@@ -3049,10 +3055,11 @@ const videos = [
   </div>
 ) : (
   <audio
-    controls
-    className="audio-player"
-    ref={index === featuredSongIndex ? featuredAudioRef : null}
-  >
+  controls
+  className="audio-player"
+  ref={index === featuredSongIndex ? featuredAudioRef : null}
+  onPlay={(e) => stopAllMedia(e.currentTarget)}
+>
     <source src={song.file} type="audio/mpeg" />
   </audio>
 )}
