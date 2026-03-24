@@ -2869,6 +2869,20 @@ Vocal / 演唱 / 歌：AI
 `
   },
 ];
+  const t = translations[language];
+
+const songs = [
+  ...
+];
+
+const videos = [
+  {
+    id: 1,
+    title: "Sydney All Week-MV",
+    file: "https://media.sakuramusicworld.com/SydneyAllWeek-mv.mp4",
+    cover: "/gallery/photo10.jpg"
+  }
+];
   const galleryItems = Array.from({ length: 50 }, (_, index) => ({
   id: index + 1,
   type: "image",
@@ -3015,11 +3029,19 @@ Vocal / 演唱 / 歌：AI
           </div>
         </section>
 
-        <section id="videos" className="section">
-          <div className="section-heading">
-            <h2>{t.videosTitle}</h2>
-            <p>{t.videosDesc}</p>
-          </div>
+        <div className="video-list">
+  {videos.map((video) => (
+    <div className="video-card" key={video.id}>
+      <h4>{video.title}</h4>
+
+      <div className="video-frame-wrap">
+        <video className="video-frame" controls preload="metadata">
+          <source src={video.file} type="video/mp4" />
+        </video>
+      </div>
+    </div>
+  ))}
+</div>
 
         <div className="video-card">
   <div className="video-frame-wrap">
