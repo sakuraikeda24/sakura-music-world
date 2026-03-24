@@ -2869,13 +2869,7 @@ Vocal / 演唱 / 歌：AI
 `
   },
 ];
-  const t = translations[language];
-
-const songs = [
-  ...
-];
-
-const videos = [
+  const videos = [
   {
     id: 1,
     title: "Sydney All Week-MV",
@@ -3028,35 +3022,27 @@ const videos = [
             ))}
           </div>
         </section>
-
-        <div className="video-list">
-  {videos.map((video) => (
-    <div className="video-card" key={video.id}>
-      <h4>{video.title}</h4>
-
-      <div className="video-frame-wrap">
-        <video className="video-frame" controls preload="metadata">
-          <source src={video.file} type="video/mp4" />
-        </video>
-      </div>
-    </div>
-  ))}
-</div>
-
-        <div className="video-card">
-  <div className="video-frame-wrap">
-<iframe
-  className="video-frame"
-  src="https://player.bilibili.com/player.html?bvid=BV14nAGzMEbA&page=1&autoplay=0"
-  title="Music Video"
-  frameBorder="0"
-  allow="fullscreen"
-  allowFullScreen
-  scrolling="no"
-/>
+              <section id="videos" className="section videos">
+  <div className="section-heading">
+    <h2>{t.videosTitle}</h2>
+    <p>{t.videosDesc}</p>
   </div>
-</div>
-        </section>
+
+  <div className="video-list">
+    {videos.map((video) => (
+      <div className="video-card" key={video.id}>
+        <h4>{video.title}</h4>
+
+        <div className="video-frame-wrap">
+          <video className="video-frame" controls preload="metadata">
+            <source src={video.file} type="video/mp4" />
+            Your browser does not support the video tag.
+          </video>
+        </div>
+      </div>
+    ))}
+  </div>
+</section>
 
         <section id="life" className="section">
           <div className="section-heading">
