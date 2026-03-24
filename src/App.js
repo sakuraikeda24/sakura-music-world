@@ -1289,7 +1289,7 @@ Vocal / 演唱 / 歌：AI
   },
   {
     id: 18,
-       title: "Sydney All Week",
+       title: "Sydney All Week (AI Generated)",
     file: "https://media.sakuramusicworld.com/Sydney All Week.mp3",
     lyrics: `Composer / 作曲：AI  
 Lyricist / 作詞：AI  
@@ -1715,12 +1715,11 @@ Vocal / 演唱 / 歌：AI
   },
   {
     id: 24,
-    title: "Golden Skin",
+    title: "Golden Skin (AI Generated)",
     file: "https://media.sakuramusicworld.com/Golden Skin.mp3",
     lyrics: `Composer / 作曲：AI  
 Lyricist/ 作詞：AI
 Vocal / 演唱 / 歌：AI
-
 
 I wore iron on my heartbeat
 Heavy on my younger chest
@@ -1816,180 +1815,794 @@ Golden skin`
   },
      {
     id: 25,
-    title: "song 23",
-    file: "/song 23.mp3",
+    title: "挫骨扬灰",
+    file: "https://media.sakuramusicworld.com/cuoguyanghui.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
-Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
-Vocal / 演唱 / 歌：AI`
+Lyricist/ 作詞：Sakura Ikeda（池田樱子・池田さくら）  
+Vocal / 演唱 / 歌：AI
+
+你总是眼里充满温柔暧昧 
+让我不知不觉为你心碎
+你总是有着那种淡淡烟味 
+让我一次又一次的沉醉
+
+你总是望着远方夕阳余辉 
+还让我陪你一直看到天黑
+你总是听着秋风轻轻的吹 
+回忆里那时候的你最美
+
+我不会再喝醉 一切都是我不对 
+失去的最珍贵 却永远无法挽回
+你最爱的玫瑰 只能送给你的墓碑 
+走多远都不累 拖着那条残废的腿
+
+都是我犯的罪 你的好我不配 
+给了我所有甜美 我却将你挫骨扬灰
+我所有的伤悲 还有愧疚的滋味 
+不需任何安慰 宁愿再痛一万倍 
+
+你总是眼里充满温柔暧昧 
+让我不知不觉为你心碎
+你总是有着那种淡淡烟味 
+让我一次又一次的沉醉
+
+你总是望着远方夕阳余辉 
+还让我陪你一直看到天黑
+你总是听着秋风轻轻的吹 
+回忆里那时候的你最美
+
+我不会再喝醉 一切都是我不对 
+失去的最珍贵 却永远无法挽回
+你最爱的玫瑰 只能送给你的墓碑 
+走多远都不累 拖着那条残废的腿
+
+都是我犯的罪 你的好我不配 
+给了我所有甜美 我却将你挫骨扬灰
+我所有的伤悲 还有愧疚的滋味 
+不需任何安慰 宁愿再痛一万倍 
+
+我不会再喝醉 一切都是我不对 
+失去的最珍贵 却永远无法挽回
+你最爱的玫瑰 只能送给你的墓碑 
+走多远都不累 拖着那条残废的腿
+
+都是我犯的罪 你的好我不配 
+给了我所有甜美 我却将你挫骨扬灰
+我所有的伤悲 还有愧疚的滋味 
+不需任何安慰 宁愿再痛一万倍 
+
+我把自己摧毁 永远不要再轮回`
   },
    {
     id: 26,
-    title: "song 23",
-    file: "/song 23.mp3",
+    title: "愛の麻酔",
+    file: "https://media.sakuramusicworld.com/Rabuzuhenpu.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
-Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
-Vocal / 演唱 / 歌：AI`
+Lyricist/ 作詞：Sakura Ikeda（池田樱子・池田さくら）    
+Vocal / 演唱 / 歌：AI
+
+まだ君はまた嘘の涙を流して
+怒って言い訳それはただの誤解で
+冷たい君はあと何回　騙して
+あの夜実は君の部屋の前で彷徨って
+
+何度も自分にもう一度だけチャンスって
+信じてみたのに　二人の姿見て崩れて
+
+きっとただ私が深く酔って
+君の優しさに溺れていて
+だからずっと　見抜けなくて
+その仮面
+
+ただ私が愛しすぎて今でも離れなくて
+君のために捧げたすべてが多すぎて多すぎて
+
+どうして私のすべてを少しも感じなくて
+もし最初から愛してないなら言わないで言わないで
+
+もう二度とこの痛みに心壊さないで　涙拭いて
+もう二度と泣かない　これが君がくれたすべての痛みで
+
+愛の麻酔　これで終わりで
+
+あの夜実は君の部屋の前で彷徨って
+何度も自分にもう一度だけチャンスって
+信じてみたのに　二人の姿見て崩れて
+
+きっとただ私が深く酔って
+君の優しさに溺れていて
+だからずっと　見抜けなくて
+その仮面
+
+ただ私が愛しすぎて今でも離れなくて
+君のために捧げたすべてが多すぎて多すぎて
+
+どうして私のすべてを少しも感じなくて
+もし最初から愛してないなら言わないで言わないで
+
+もう二度とこの痛みに心壊さないで　涙拭いて
+もう二度と泣かない　これが君がくれたすべての痛みで
+
+どうして私のすべてを少しも感じなくて
+もし最初から愛してないなら言わないで言わないで
+もう二度とこの痛みに心壊さないで　涙拭いて
+もう二度と泣かない　これが君がくれたすべての痛みで
+愛の麻酔　これで終わりで`
   },
   {
+    id: 26,
+    title: "愛の麻酔",
+    file: "https://media.sakuramusicworld.com/Rabuzuhenpu.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist/ 作詞：Sakura Ikeda（池田樱子・池田さくら）    
+Vocal / 演唱 / 歌：AI
+`
+  },
+    {
     id: 27,
-    title: "song 24",
-    file: "/song 24.mp3",
-    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
-Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
-Vocal / 演唱 / 歌：AI`
+    title: "Sakura Ikeda (AI Generated)",
+    file: "https://media.sakuramusicworld.com/Sakura Ikeda.mp3",
+    lyrics: `Composer / 作曲：AI  
+Lyricist/ 作詞：AI   
+Vocal / 演唱 / 歌：AI
+
+Sakura Ikeda on the main street
+Sydney city shining at her feet
+Top floor view, counting up receipts
+Turn it to a game, she don’t know defeat
+
+She got brains, she got plans on plans
+Million-watt smile, diamonds on her hands
+Microphone queen, you a big fan
+Runs every scale like it’s all pre-planned (oh yeah)
+
+
+How she do it all, I can’t relate
+Every little move, she levitate
+Every little loss, she elevate
+Turn another win, let ’em all debate
+
+
+Sakura, Sakura Ikeda
+Most beautiful girl, can’t fade her
+Smart mind, rich life, big paper
+Whole crowd chant her name like a prayer
+
+Sakura, Sakura Ikeda
+Singing like an angel, creator
+Dancing queen, sweet dream, heart breaker
+Cherry blossom girl, see you later (hey)
+
+
+Eight-ball down, she ain’t gonna miss
+Chalk on cue, ice on wrist
+Every championship, long list
+Line ’em all up, add a little twist
+
+Nighttime comes, then she switch scenes
+Dance floor bright, she the laser beam
+Step for step, living in a dream
+Whole club moves when she hits the beat (woah)
+
+Hello Kitty cute, then she turn to flame
+One night soft pink, next night untamed
+Sometimes cool breeze, sometimes hurricane
+Every look new, but the vibe the same
+
+Sakura, Sakura Ikeda
+Most beautiful girl, can’t fade her
+Smart mind, rich life, big paper
+Whole crowd chant her name like a prayer
+
+Sakura, Sakura Ikeda
+Singing like an angel, creator
+Dancing queen, sweet dream, heart breaker
+Cherry blossom girl, see you later
+
+Daytime glow in the Sydney sun
+Nighttime shine when the music runs
+Happy in her world, yeah she already won
+Name in the lights, but she still has fun (oh yeah)
+
+Soft like petals when she laughs out loud
+Sharp like focus when she face that crowd
+Every style she wears makes her mama proud
+Sakura Ikeda, say it out loud
+
+Sakura, Sakura Ikeda
+Most beautiful girl, can’t fade her
+Smart mind, rich life, big paper
+Whole crowd chant her name like a prayer
+
+Sakura, Sakura Ikeda
+Singing like an angel, creator
+Dancing queen, sweet dream, heart breaker
+Cherry blossom girl, see you later`
   },
-   {
+    {
     id: 28,
-    title: "song 23",
-    file: "/song 23.mp3",
+    title: "多想多想不爱你",
+    file: "https://media.sakuramusicworld.com/duoxiangbuaini.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
-Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
-Vocal / 演唱 / 歌：AI`
+Lyricist/ 作詞：Sakura Ikeda（池田樱子・池田さくら）    
+Vocal / 演唱 / 歌：AI
+
+我记得你的好 
+也记得你给我的欢笑
+我每天在梦中祈祷 
+能陪你一起到老
+
+直到一切烟消云散 
+才明白这段感情的悲惨 
+我不想让你再为难 
+独自一人偷偷的心酸
+
+我的心 
+一瞬间破碎
+我的泪 
+在眼中徘徊
+
+我是多想多想不爱你 
+我是多想多想忘记你
+给我太多甜蜜 太多回忆 
+叫我怎么能够把你忘记
+
+我是多想多想不爱你 
+我是多想多想离开你
+却那么不容易 已烙在心底 
+像深深的伤疤 无法抹去
+
+直到一切烟消云散 
+才明白这段感情的悲惨 
+我不想让你再为难 
+独自一人偷偷的心酸
+
+我的心 
+一瞬间破碎
+我的泪 
+在眼中徘徊
+
+我是多想多想不爱你 
+我是多想多想忘记你
+给我太多甜蜜 太多回忆 
+叫我怎么能够把你忘记
+
+我是多想多想不爱你 
+我是多想多想离开你
+却那么不容易 已烙在心底 
+像深深的伤疤 无法抹去
+
+我是多想多想不爱你 
+我是多想多想忘记你
+给我太多甜蜜 太多回忆 
+叫我怎么能够把你忘记
+
+我是多想多想不爱你 
+我是多想多想离开你
+却那么不容易 已烙在心底 
+像深深的伤疤 无法抹去`
   },
-  {
+    {
     id: 29,
-    title: "song 24",
-    file: "/song 24.mp3",
+    title: "君だけでいい",
+    file: "https://media.sakuramusicworld.com/Kimi.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
-Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
-Vocal / 演唱 / 歌：AI`
+Lyricist/ 作詞：Sakura Ikeda（池田樱子・池田さくら）    
+Vocal / 演唱 / 歌：AI
+
+Boy ぎゅっと抱いてほしい
+ねえ言って 一番大事なのは私
+darling と呼ぶ声で 世界は君だけ
+そばにいれば 何もいらない
+
+Boy そっと寄りそって
+ねえ言って ずっと大事にすると
+darling と呼んで
+まっすぐな声
+胸を打つよ
+勇気を出して 今伝えるよ
+I love you, I love you so much
+
+You said I'm beautiful, You said I'm beautiful
+この胸の鼓動 君には届くかな
+
+You said I'm beautiful, you are also beautiful
+ずっと優しくしてね 今すぐ君の腕の中
+
+Boy そっと寄りそって
+ねえ言って ずっと大事にすると
+darling と呼んで
+まっすぐな声
+胸を打つよ
+勇気を出して 今伝えるよ
+I love you, I love you so much
+
+You said I'm beautiful, You said I'm beautiful
+この胸の鼓動 君には届くかな
+
+You said I'm beautiful, you are also beautiful
+ずっと優しくしてね 今すぐ君の腕の中
+
+You said I'm beautiful, You said I'm beautiful
+この胸の鼓動 君には届くかな
+
+You said I'm beautiful, you are also beautiful
+ずっと優しくしてね 今すぐ君の腕の中
+
+どうか抱いて この腕の中
+`
   },
-  {
+    {
     id: 30,
-    title: "song 23",
-    file: "/song 23.mp3",
+    title: "coming soon",
+    file: "https://media.sakuramusicworld.com/Rabuzuhenpu.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
-Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
-Vocal / 演唱 / 歌：AI`
+Lyricist/ 作詞：Sakura Ikeda（池田樱子・池田さくら）    
+Vocal / 演唱 / 歌：AI
+`
   },
-  {
+    {
     id: 31,
-    title: "song 24",
-    file: "/song 24.mp3",
-    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
-Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
-Vocal / 演唱 / 歌：AI`
+    title: "池田樱子(AI Generated)",
+    file: "https://media.sakuramusicworld.com/chitianyingzi.mp3",
+    lyrics: `Composer / 作曲：AI
+Lyrics (AI-assisted) / 歌詞（AI補助）：—      
+Vocal / 演唱 / 歌：AI
+
+以前站在镜子前
+只会皱眉头
+拳头握得太紧
+心里全是烈酒
+
+说话总像在吵架
+连呼吸都带火
+那时候的我是谁
+连自己都闪躲
+
+现在我叫池田樱子
+大笑的时候会捂着脸说害羞
+从丑丑的男孩走到这条温柔路口
+从中国的口音学成轻轻的日文问候
+原来平静
+一直在等我回头
+
+裙摆在阳光里转一圈
+风也学我轻柔
+睫毛上挂着亮光
+不是泪 是自由
+
+曾经那股子硬撑
+像石头压在胸口
+换成一身软棉棉
+连梦里都在笑着走
+
+现在我叫池田樱子
+走路慢慢的 像在逛春天田埂
+从粗糙的指节到细细涂好的指尖粉红
+从暴躁的脾气学会端茶递水慢慢说话几分
+原来温柔
+就是让自己被自己抱紧一寸又一寸
+
+如果当年那些荷尔蒙
+没把我推上那条窄路
+也许不会学会
+怎么从黑夜走成日出
+
+现在我叫池田樱子
+名字念出来 心里就像有花开过
+从前那个他远远站在记忆的渡口
+我踩着吉他声一步一步向前挥手
+这一刻安静
+安静得像乡间黄昏的路口
+
+我从来没这么平静过
+原来这就是我想要的
+长长久久`
   },
-  {
+    {
     id: 32,
-    title: "song 23",
-    file: "/song 23.mp3",
+    title: "悪い子の恋",
+    file: "https://media.sakuramusicworld.com/Warui.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
-Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
-Vocal / 演唱 / 歌：AI`
+Lyricist/ 作詞：Sakura Ikeda（池田樱子・池田さくら）    
+Vocal / 演唱 / 歌：AI
+Go go, come on
+
+ボクはこんなスタイル
+ボクはこんなフリーダム
+君なんてもうサヨナラさ
+
+たとえ気まぐれでも
+たとえワガママでも
+どうするつもりなんだ
+
+どんなに頑張っても
+二人はもうダメさ
+パーティーはいつか終わるさ
+
+だからもうやめなよ
+泣いてもムダだよ
+最初から恋じゃない
+
+言ったじゃないか
+遊びでいいじゃないか
+どうして今さら本気なのさ
+
+サヨナラしたなら
+未練はいらないさ
+新しい恋を探しな
+
+言ったじゃないか
+遊びでいいじゃないか
+君ってほんとにバカだな
+
+ボクの言葉なんて
+信じちゃダメなんだ
+次の日にはもう変わるさ
+
+もういいだろ
+会わないほうがいいさ
+少し胸が痛むから
+
+行くなら行け
+グズグズするなよ
+全部忘れてくれ
+
+じゃないとボクは
+ちょっと困るんだ
+
+今回は君の負け
+ボクには未練ない
+涙なんて関係ない
+
+どんなに悲しくても
+どんなに泣いても
+それはボクじゃない
+
+君もボクもきっと
+少し寂しくて
+恋ごっこしてただけさ
+
+いつかまたどこか
+街で会えたなら
+笑って通り過ぎよう
+
+時間が流れれば
+痛みも消えるさ
+半分くらいになる
+
+暗い夜を越えて
+前を向けばいい
+ただのクセだったんだ
+
+ボクはこんなスタイル
+ボクはこんなフリーダム
+君なんてもうサヨナラさ
+
+たとえ気まぐれでも
+たとえワガママでも
+どうするつもりなんだ
+
+どんなに頑張っても
+二人はもうダメさ
+パーティーはいつか終わるさ
+
+だからもうやめなよ
+泣いてもムダだよ
+最初から恋じゃない
+
+言ったじゃないか
+遊びでいいじゃないか
+どうして今さら本気なのさ
+
+サヨナラしたなら
+未練はいらないさ
+新しい恋を探しな
+
+言ったじゃないか
+遊びでいいじゃないか
+君ってほんとにバカだな
+
+ボクの言葉なんて
+信じちゃダメなんだ
+次の日にはもう変わるさ
+
+もういいだろ
+会わないほうがいいさ
+少し胸が痛むから
+
+行くなら行け
+グズグズするなよ
+全部忘れてくれ
+
+じゃないとボクは
+ちょっと困るんだ
+
+じゃないとボクは
+ちょっと困るんだ`
   },
-  {
+    {
     id: 33,
-    title: "song 24",
-    file: "/song 24.mp3",
+    title: "English Song is Coming soon",
+    file: "https://media.sakuramusicworld.com/Rabuzuhenpu.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
-Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
-Vocal / 演唱 / 歌：AI`
+Lyricist/ 作詞：Sakura Ikeda（池田樱子・池田さくら）    
+Vocal / 演唱 / 歌：AI
+`
   },
-  {
+    {
     id: 34,
-    title: "song 23",
-    file: "/song 23.mp3",
+    title: "朋友",
+    file: "https://media.sakuramusicworld.com/pengyou.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
-Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
-Vocal / 演唱 / 歌：AI`
+Lyricist/ 作詞：Sakura Ikeda（池田樱子・池田さくら）    
+Vocal / 演唱 / 歌：AI
+
+你只不过叫过我一声朋友而已
+但为何我的心里却一直不能忘记
+最后一秒钟什么出现在你眼底
+也许是天使接引你去新的世纪
+
+朋友你现在究竟轮回到了哪里
+也许你已经被清空你所有的记忆
+就算你不记得我也没有什么关系
+我只希望你能得到安息
+
+记得那天 在无尽漫长夜里
+你那微笑的脸 慢慢的清晰
+这让我回想起来你的点点滴滴
+所有的哀乐忧喜 都难以忘记
+
+没有人能够把你忘记
+因为你的心里面也有一片光明
+今生的友情不能陪完你一辈子
+但愿我们来世还能做朋友
+
+朋友你现在究竟轮回到了哪里
+也许你已经被清空你所有的记忆
+就算你不记得我也没有什么关系
+我只希望你能得到安息
+
+记得那天 在无尽漫长夜里
+你那微笑的脸 慢慢的清晰
+这让我回想起来你的点点滴滴
+所有的哀乐忧喜 都难以忘记
+
+没有人能够把你忘记
+因为你的心里面也有一片光明
+今生的友情不能陪完你一辈子
+但愿我们来世还能做朋友
+
+没有人能够把你忘记
+因为你的心里面也有一片光明
+今生的友情不能陪完你一辈子
+但愿我们来世还能做朋友
+
+但愿我们来世还能做朋友`
   },
-  {
+    {
     id: 35,
-    title: "song 24",
-    file: "/song 24.mp3",
+    title: "父の心の声",
+    file: "https://media.sakuramusicworld.com/Chichi.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
-Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
-Vocal / 演唱 / 歌：AI`
+Lyricist/ 作詞：Sakura Ikeda（池田樱子・池田さくら）    
+Vocal / 演唱 / 歌：AI
+
+思い出が今
+胸の奥あふれ
+どうして命の終わりに
+やっと気づけるの
+
+夢の中では
+自由に生きてた
+花が咲きまた散るように
+人生のリズム
+
+わからない
+どうすればいい
+あと一秒
+もう一秒だけ君を見たい
+もう一秒
+
+君たち守れないことが僕の罪
+どうか慰めの言葉は言わないで
+余計に胸が痛む
+
+言いたくない
+この痛みを
+君の泣き声聞きたくない
+行きたくない
+でも行くしか
+約束した君の幸せ
+言いたくない
+この想いを
+口にすれば
+きっと涙あふれる
+まだ守りたい約束がある
+もうできない
+
+わからない
+どうすればいい
+あと一秒
+もう一秒だけ君を見たい
+もう一秒
+
+君たち守れないことが僕の罪
+どうか慰めの言葉は言わないで
+余計に胸が痛む
+
+言いたくない
+この痛みを
+君の泣き声聞きたくない
+行きたくない
+でも行くしか
+約束した君の幸せ
+言いたくない
+この想いを
+口にすれば
+きっと涙あふれる
+まだ守りたい約束がある
+もうできない
+
+言いたくない
+この痛みを
+君の泣き声聞きたくない
+行きたくない
+でも行くしか
+約束した君の幸せ
+
+言いたくない
+この想いを
+口にすれば
+きっと涙あふれる
+まだ守りたい約束がある
+もうできない
+
+まだ守りたい約束がある
+もうできない`
   },
-  {
+    {
     id: 36,
-    title: "song 23",
-    file: "/song 23.mp3",
+    title: "English Song is coming soon",
+    file: "https://media.sakuramusicworld.com/Rabuzuhenpu.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
-Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
-Vocal / 演唱 / 歌：AI`
+Lyricist/ 作詞：Sakura Ikeda（池田樱子・池田さくら）    
+Vocal / 演唱 / 歌：AI
+`
   },
-  {
+    {
     id: 37,
-    title: "song 24",
-    file: "/song 24.mp3",
+    title: "感情的世界里哪有错与对",
+    file: "https://media.sakuramusicworld.com/ganqingdeshijie.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
-Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
-Vocal / 演唱 / 歌：AI`
+Lyricist/ 作詞：Sakura Ikeda（池田樱子・池田さくら）    
+Vocal / 演唱 / 歌：AI
+
+没有人陪我喝醉 
+那就让我自己把自己灌醉
+心碎的滋味 喝醉后才能暂时消退
+醒了再醉 再醉一回
+
+活该尝苦涩滋味
+感情的世界里哪有错与对
+定要争个是与非 两个人都不愿后退
+自私的人 应受此罪
+
+是错的是对的是白的是黑的 已无所谓
+该走的该留的该你的该我的 无法挽回
+谁说的谁做的谁吵的谁骂的 无需再惭愧
+最爱的最美的最好的最悔的 也不再珍贵
+
+活该尝苦涩滋味
+感情的世界里哪有错与对
+定要争个是与非 两个人都不愿后退
+自私的人 应受此罪
+
+是错的是对的是白的是黑的 已无所谓
+该走的该留的该你的该我的 无法挽回
+谁说的谁做的谁吵的谁骂的 无需再惭愧
+最爱的最美的最好的最悔的 也不再珍贵
+
+是错的是对的是白的是黑的 已无所谓
+该走的该留的该你的该我的 无法挽回
+谁说的谁做的谁吵的谁骂的 无需再惭愧
+最爱的最美的最好的最悔的 也不再珍贵`
   },
-  {
+    {
     id: 38,
-    title: "song 23",
-    file: "/song 23.mp3",
+    title: "嘘に溺れて",
+    file: "https://media.sakuramusicworld.com/Shitsu.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
-Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
-Vocal / 演唱 / 歌：AI`
+Lyricist/ 作詞：Sakura Ikeda（池田樱子・池田さくら）    
+Vocal / 演唱 / 歌：AI
+
+わかってるの　これはただの夢よ
+あんな人は　私のものじゃないよ
+バカみたいな願い　誰も責めないよ
+責めるなら自分で　全部嘘みたいよ
+
+全部知ってる　それでも離れない
+甘い言葉で　また惑わされたい
+愛してるの？　本当はわかるのに
+ただの思い込み　抜け出せない
+
+愛　愛　あなたの愛
+落ちるたびにまた痛い
+気づいた時にはもう遅い
+どうしてここで待ちたい
+
+愛　愛　軽く言うくらい
+それが優しさじゃない
+愛　愛　その愛
+ただの遊びみたい
+
+ねえねえ　バカだと思わない
+何も知らないわけじゃない
+もし本当の人に出会えばすぐに
+迷わず私を捨てる未来
+
+本当は全部わかってるのに
+その日だけ来てほしくない
+せめて今だけ夢を見たい
+明日には終わってもいい
+
+わかってるの　これはただの夢よ
+あんな人は　私のものじゃないよ
+バカみたいな願い　誰も責めないよ
+責めるなら自分で　全部嘘みたいよ
+
+全部知ってる　それでも離れない
+甘い言葉で　また惑わされたい
+愛してるの？　本当はわかるのに
+ただの思い込み　抜け出せない
+
+愛　愛　あなたの愛
+落ちるたびにまた痛い
+気づいた時にはもう遅い
+どうしてここで待ちたい
+
+愛　愛　軽く言うくらい
+それが優しさじゃない
+愛　愛　その愛
+ただの遊びみたい
+
+愛　愛　あなたの愛
+落ちるたびにまた痛い
+気づいた時にはもう遅い
+どうしてここで待ちたい
+
+愛　愛　軽く言うくらい
+それが優しさじゃない
+愛　愛　その愛
+ただの遊びみたい`
   },
-  {
+    {
     id: 39,
-    title: "song 24",
-    file: "/song 24.mp3",
+    title: "愛の麻酔",
+    file: "https://media.sakuramusicworld.com/Rabuzuhenpu.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
-Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
-Vocal / 演唱 / 歌：AI`
+Lyricist/ 作詞：Sakura Ikeda（池田樱子・池田さくら）    
+Vocal / 演唱 / 歌：AI
+`
   },
-  {
+    {
     id: 40,
-    title: "song 23",
-    file: "/song 23.mp3",
+    title: "愛の麻酔",
+    file: "https://media.sakuramusicworld.com/Rabuzuhenpu.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
-Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
-Vocal / 演唱 / 歌：AI`
+Lyricist/ 作詞：Sakura Ikeda（池田樱子・池田さくら）    
+Vocal / 演唱 / 歌：AI
+`
   },
-  {
+    {
     id: 41,
-    title: "song 24",
-    file: "/song 24.mp3",
+    title: "愛の麻酔",
+    file: "https://media.sakuramusicworld.com/Rabuzuhenpu.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
-Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
-Vocal / 演唱 / 歌：AI`
+Lyricist/ 作詞：Sakura Ikeda（池田樱子・池田さくら）    
+Vocal / 演唱 / 歌：AI
+`
   },
-  {
-    id: 42,
-    title: "song 23",
-    file: "/song 23.mp3",
-    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
-Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
-Vocal / 演唱 / 歌：AI`
-  },
-  {
-    id: 43,
-    title: "song 24",
-    file: "/song 24.mp3",
-    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
-Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
-Vocal / 演唱 / 歌：AI`
-  },
-  {
-    id: 44,
-    title: "song 23",
-    file: "/song 23.mp3",
-    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
-Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
-Vocal / 演唱 / 歌：AI`
-  },
-  {
-    id: 45,
-    title: "song 24",
-    file: "/song 24.mp3",
-    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
-Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
-Vocal / 演唱 / 歌：AI`
-  },
-  {
-    id: 46,
-    title: "song 24",
-    file: "/song 24.mp3",
-    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
-Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
-Vocal / 演唱 / 歌：AI`
-  }
 ];
   const galleryItems = Array.from({ length: 50 }, (_, index) => ({
   id: index + 1,
