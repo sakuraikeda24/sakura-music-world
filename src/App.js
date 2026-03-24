@@ -1597,16 +1597,64 @@ Go go, come on
 
 否则我一定会受 良心的惩罚
 
-否则我一定会受 良心的惩罚
-`
+否则我一定会受 良心的惩罚`
   },
   {
     id: 22,
-    title: "song 22",
-    file: "/song 22.mp3",
+    title: "The End of the World Won’t Come",
+    file: "https://media.sakuramusicworld.com/The End of the World Won’t Come.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
-Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
-Vocal / 演唱 / 歌：AI`
+Lyricist/ 作詞：Sakura Ikeda（池田樱子・池田さくら）  
+English Lyrics (AI-assisted) / 英語の歌詞（AI補助）：—  
+Vocal / 演唱 / 歌：AI
+
+I’m standing here alone tonight
+No regrets left buried in my mind
+In this broken world we built and ruined
+Watching time decay and fading into night
+Still waiting for the end to finally come
+
+This time I just wanna escape from it
+To another place somewhere far away now
+I can’t take this weight inside me any longer
+If I make it through this endless dark tonight
+Maybe I’ll be clean and empty once again
+
+Why won’t this world just fall apart completely
+Still alive and breathing with a guilty heart now
+This life will never ever be redeemed or saved
+In this cold and slowly dying empty dream
+
+Why won’t this world just disappear forever
+I just wanna vanish into nothing here now
+No more fate and no more cycles of rebirth
+No more love and no more pain or any hurt
+
+This time I just wanna escape from it
+To another place somewhere far away now
+I can’t take this weight inside me any longer
+If I make it through this endless dark tonight
+Maybe I’ll be clean and empty once again
+
+Why won’t this world just fall apart completely
+Still alive and breathing with a guilty heart now
+This life will never ever be redeemed or saved
+In this cold and slowly dying empty dream
+
+Why won’t this world just disappear forever
+I just wanna vanish into nothing here now
+No more fate and no more cycles of rebirth
+No more love and no more pain or any hurt
+
+Why won’t this world just fall apart completely
+Still alive and breathing with a guilty heart now
+This life will never ever be redeemed or saved
+In this cold and slowly dying empty dream
+
+Why won’t this world just disappear forever
+I just wanna vanish into nothing here now
+No more fate and no more cycles of rebirth
+No more love and no more pain or any hurt`
   },
   {
     id: 23,
@@ -1618,6 +1666,182 @@ Vocal / 演唱 / 歌：AI`
   },
   {
     id: 24,
+    title: "song 24",
+    file: "/song 24.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
+Vocal / 演唱 / 歌：AI`
+  },
+     {
+    id: 25,
+    title: "song 23",
+    file: "/song 23.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
+Vocal / 演唱 / 歌：AI`
+  },
+   {
+    id: 26,
+    title: "song 23",
+    file: "/song 23.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
+Vocal / 演唱 / 歌：AI`
+  },
+  {
+    id: 27,
+    title: "song 24",
+    file: "/song 24.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
+Vocal / 演唱 / 歌：AI`
+  },
+   {
+    id: 28,
+    title: "song 23",
+    file: "/song 23.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
+Vocal / 演唱 / 歌：AI`
+  },
+  {
+    id: 29,
+    title: "song 24",
+    file: "/song 24.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
+Vocal / 演唱 / 歌：AI`
+  },
+  {
+    id: 30,
+    title: "song 23",
+    file: "/song 23.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
+Vocal / 演唱 / 歌：AI`
+  },
+  {
+    id: 31,
+    title: "song 24",
+    file: "/song 24.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
+Vocal / 演唱 / 歌：AI`
+  },
+  {
+    id: 32,
+    title: "song 23",
+    file: "/song 23.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
+Vocal / 演唱 / 歌：AI`
+  },
+  {
+    id: 33,
+    title: "song 24",
+    file: "/song 24.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
+Vocal / 演唱 / 歌：AI`
+  },
+  {
+    id: 34,
+    title: "song 23",
+    file: "/song 23.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
+Vocal / 演唱 / 歌：AI`
+  },
+  {
+    id: 35,
+    title: "song 24",
+    file: "/song 24.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
+Vocal / 演唱 / 歌：AI`
+  },
+  {
+    id: 36,
+    title: "song 23",
+    file: "/song 23.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
+Vocal / 演唱 / 歌：AI`
+  },
+  {
+    id: 37,
+    title: "song 24",
+    file: "/song 24.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
+Vocal / 演唱 / 歌：AI`
+  },
+  {
+    id: 38,
+    title: "song 23",
+    file: "/song 23.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
+Vocal / 演唱 / 歌：AI`
+  },
+  {
+    id: 39,
+    title: "song 24",
+    file: "/song 24.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
+Vocal / 演唱 / 歌：AI`
+  },
+  {
+    id: 40,
+    title: "song 23",
+    file: "/song 23.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
+Vocal / 演唱 / 歌：AI`
+  },
+  {
+    id: 41,
+    title: "song 24",
+    file: "/song 24.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
+Vocal / 演唱 / 歌：AI`
+  },
+  {
+    id: 42,
+    title: "song 23",
+    file: "/song 23.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
+Vocal / 演唱 / 歌：AI`
+  },
+  {
+    id: 43,
+    title: "song 24",
+    file: "/song 24.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
+Vocal / 演唱 / 歌：AI`
+  },
+  {
+    id: 44,
+    title: "song 23",
+    file: "/song 23.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
+Vocal / 演唱 / 歌：AI`
+  },
+  {
+    id: 45,
+    title: "song 24",
+    file: "/song 24.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
+Vocal / 演唱 / 歌：AI`
+  },
+  {
+    id: 46,
     title: "song 24",
     file: "/song 24.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
