@@ -1489,6 +1489,63 @@ Vocal / 演唱 / 歌：AI
   },
   {
     id: 21,
+    title: "The End of the World Won’t Come",
+    file: "https://media.sakuramusicworld.com/The End of the World Wont Come.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist/ 作詞：Sakura Ikeda（池田樱子・池田さくら）  
+English Lyrics (AI-assisted) / 英語の歌詞（AI補助）：—  
+Vocal / 演唱 / 歌：AI
+
+I’m standing here alone tonight
+No regrets left buried in my mind
+In this broken world we built and ruined
+Watching time decay and fading into night
+Still waiting for the end to finally come
+
+This time I just wanna escape from it
+To another place somewhere far away now
+I can’t take this weight inside me any longer
+If I make it through this endless dark tonight
+Maybe I’ll be clean and empty once again
+
+Why won’t this world just fall apart completely
+Still alive and breathing with a guilty heart now
+This life will never ever be redeemed or saved
+In this cold and slowly dying empty dream
+
+Why won’t this world just disappear forever
+I just wanna vanish into nothing here now
+No more fate and no more cycles of rebirth
+No more love and no more pain or any hurt
+
+This time I just wanna escape from it
+To another place somewhere far away now
+I can’t take this weight inside me any longer
+If I make it through this endless dark tonight
+Maybe I’ll be clean and empty once again
+
+Why won’t this world just fall apart completely
+Still alive and breathing with a guilty heart now
+This life will never ever be redeemed or saved
+In this cold and slowly dying empty dream
+
+Why won’t this world just disappear forever
+I just wanna vanish into nothing here now
+No more fate and no more cycles of rebirth
+No more love and no more pain or any hurt
+
+Why won’t this world just fall apart completely
+Still alive and breathing with a guilty heart now
+This life will never ever be redeemed or saved
+In this cold and slowly dying empty dream
+
+Why won’t this world just disappear forever
+I just wanna vanish into nothing here now
+No more fate and no more cycles of rebirth
+No more love and no more pain or any hurt`
+  },
+     {
+    id: 22,
     title: "劈腿姐唱劈腿歌",
     file: "https://media.sakuramusicworld.com/pituijie.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
@@ -1598,63 +1655,6 @@ Go go, come on
 否则我一定会受 良心的惩罚
 
 否则我一定会受 良心的惩罚`
-  },
-  {
-    id: 22,
-    title: "The End of the World Won’t Come",
-    file: "https://media.sakuramusicworld.com/The End of the World Wont Come.mp3",
-    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
-Lyricist/ 作詞：Sakura Ikeda（池田樱子・池田さくら）  
-English Lyrics (AI-assisted) / 英語の歌詞（AI補助）：—  
-Vocal / 演唱 / 歌：AI
-
-I’m standing here alone tonight
-No regrets left buried in my mind
-In this broken world we built and ruined
-Watching time decay and fading into night
-Still waiting for the end to finally come
-
-This time I just wanna escape from it
-To another place somewhere far away now
-I can’t take this weight inside me any longer
-If I make it through this endless dark tonight
-Maybe I’ll be clean and empty once again
-
-Why won’t this world just fall apart completely
-Still alive and breathing with a guilty heart now
-This life will never ever be redeemed or saved
-In this cold and slowly dying empty dream
-
-Why won’t this world just disappear forever
-I just wanna vanish into nothing here now
-No more fate and no more cycles of rebirth
-No more love and no more pain or any hurt
-
-This time I just wanna escape from it
-To another place somewhere far away now
-I can’t take this weight inside me any longer
-If I make it through this endless dark tonight
-Maybe I’ll be clean and empty once again
-
-Why won’t this world just fall apart completely
-Still alive and breathing with a guilty heart now
-This life will never ever be redeemed or saved
-In this cold and slowly dying empty dream
-
-Why won’t this world just disappear forever
-I just wanna vanish into nothing here now
-No more fate and no more cycles of rebirth
-No more love and no more pain or any hurt
-
-Why won’t this world just fall apart completely
-Still alive and breathing with a guilty heart now
-This life will never ever be redeemed or saved
-In this cold and slowly dying empty dream
-
-Why won’t this world just disappear forever
-I just wanna vanish into nothing here now
-No more fate and no more cycles of rebirth
-No more love and no more pain or any hurt`
   },
   {
     id: 23,
