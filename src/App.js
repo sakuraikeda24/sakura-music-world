@@ -1929,15 +1929,6 @@ Vocal / 演唱 / 歌：AI
 もう二度と泣かない　これが君がくれたすべての痛みで
 愛の麻酔　これで終わりで`
   },
-  {
-    id: 26,
-    title: "愛の麻酔",
-    file: "https://media.sakuramusicworld.com/Rabuzuhenpu.mp3",
-    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
-Lyricist/ 作詞：Sakura Ikeda（池田樱子・池田さくら）    
-Vocal / 演唱 / 歌：AI
-`
-  },
     {
     id: 27,
     title: "Sakura Ikeda (AI Generated)",
