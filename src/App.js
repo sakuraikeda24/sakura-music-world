@@ -2988,16 +2988,27 @@ const videos = [
                     <h4>{song.title}</h4>
                   </div>
 
-                  <div className="song-actions">
-                    <button
-  className="ghost-button small"
-  onClick={() =>
-    setOpenLyricsId(openLyricsId === song.id ? null : song.id)
-  }
->
-  {openLyricsId === song.id ? t.hideLyrics : t.showLyrics}
-</button>
-                  </div>
+                 <div className="song-actions">
+  <button
+    className="ghost-button small"
+    onClick={() =>
+      setOpenLyricsId(openLyricsId === song.id ? null : song.id)
+    }
+  >
+    {openLyricsId === song.id ? t.hideLyrics : t.showLyrics}
+  </button>
+
+  <button
+    className="ghost-button small"
+    onClick={() => {
+      const url = `${window.location.origin}/?song=${song.id}`;
+      navigator.clipboard.writeText(url);
+      alert("Link copied!");
+    }}
+  >
+    Share
+  </button>
+</div>
                 </div>
 
                 {song.isBilibili ? (
@@ -3040,6 +3051,18 @@ const videos = [
   <div className="video-list">
     {videos.map((video) => (
       <div className="video-card" key={video.id}>
+              <h4>{video.title}</h4>
+
+<button
+  className="ghost-button small"
+  onClick={() => {
+    const url = `${window.location.origin}/?video=${video.id}`;
+    navigator.clipboard.writeText(url);
+    alert("Link copied!");
+  }}
+>
+  Share
+</button>
         <h4>{video.title}</h4>
 
         <div className="video-frame-wrap">
