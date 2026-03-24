@@ -2125,15 +2125,6 @@ You said I'm beautiful, you are also beautiful
   },
     {
     id: 30,
-    title: "coming soon",
-    file: "https://media.sakuramusicworld.com/Rabuzuhenpu.mp3",
-    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
-Lyricist/ 作詞：Sakura Ikeda（池田樱子・池田さくら）    
-Vocal / 演唱 / 歌：AI
-`
-  },
-    {
-    id: 31,
     title: "池田樱子(AI Generated)",
     file: "https://media.sakuramusicworld.com/chitianyingzi.mp3",
     lyrics: `Composer / 作曲：AI
@@ -2191,7 +2182,7 @@ Vocal / 演唱 / 歌：AI
 长长久久`
   },
     {
-    id: 32,
+    id: 31,
     title: "悪い子の恋",
     file: "https://media.sakuramusicworld.com/Warui.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
@@ -2312,17 +2303,8 @@ Go go, come on
 じゃないとボクは
 ちょっと困るんだ`
   },
-    {
-    id: 33,
-    title: "English Song is Coming soon",
-    file: "https://media.sakuramusicworld.com/Rabuzuhenpu.mp3",
-    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
-Lyricist/ 作詞：Sakura Ikeda（池田樱子・池田さくら）    
-Vocal / 演唱 / 歌：AI
-`
-  },
-    {
-    id: 34,
+   {
+    id: 32,
     title: "朋友",
     file: "https://media.sakuramusicworld.com/pengyou.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
@@ -2372,7 +2354,7 @@ Vocal / 演唱 / 歌：AI
 但愿我们来世还能做朋友`
   },
     {
-    id: 35,
+    id: 33,
     title: "父の心の声",
     file: "https://media.sakuramusicworld.com/Chichi.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
@@ -2453,16 +2435,7 @@ Vocal / 演唱 / 歌：AI
 もうできない`
   },
     {
-    id: 36,
-    title: "English Song is coming soon",
-    file: "https://media.sakuramusicworld.com/Rabuzuhenpu.mp3",
-    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
-Lyricist/ 作詞：Sakura Ikeda（池田樱子・池田さくら）    
-Vocal / 演唱 / 歌：AI
-`
-  },
-    {
-    id: 37,
+    id: 34,
     title: "感情的世界里哪有错与对",
     file: "https://media.sakuramusicworld.com/ganqingdeshijie.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
@@ -2500,7 +2473,7 @@ Vocal / 演唱 / 歌：AI
 最爱的最美的最好的最悔的 也不再珍贵`
   },
     {
-    id: 38,
+    id: 35,
     title: "嘘に溺れて",
     file: "https://media.sakuramusicworld.com/Shitsu.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
@@ -2568,26 +2541,327 @@ Vocal / 演唱 / 歌：AI
 ただの遊びみたい`
   },
     {
+    id: 36,
+    title: "别再爱我",
+    file: "https://media.sakuramusicworld.com/biezaiaiwo.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist/ 作詞：Sakura Ikeda（池田樱子・池田さくら）    
+Vocal / 演唱 / 歌：AI
+
+我明白 自始至终你的爱
+也明白 它为何存在
+明白你的心 也明白你的情
+再迷茫再悲哀再徘徊 永不会改
+
+我明白 为我你受了太多伤害
+在窗台 你哼着歌发呆
+乱了的节拍 已经把你出卖
+我不想有一天你年迈 后悔一切想要重来
+
+别再爱我 我不值得你放弃所有 
+已流离失所 别一错再错
+你要 生活
+
+别再爱我 难道这一切还不够深刻
+还不够苦涩 还不够折磨 
+放手 解脱
+
+我明白 为我你受了太多伤害
+在窗台 你哼着歌发呆
+乱了的节拍 已经把你出卖
+我不想有一天你年迈 后悔一切想要重来
+
+别再爱我 我不值得你放弃所有 
+已流离失所 别一错再错
+你要 生活
+
+别再爱我 难道这一切还不够深刻
+还不够苦涩 还不够折磨 
+放手 解脱
+
+无奈的生活所迫 会让内心慢慢消磨
+就算你放弃所有之后得到了我 又如何
+
+别再爱我 我不值得你放弃所有 
+已流离失所 别一错再错
+你要 生活
+
+别再爱我 难道这一切还不够深刻
+还不够苦涩 还不够折磨 
+放手 解脱`
+  },
+    {
+    id: 37,
+    title: "大阪の恋、シドニーで",
+    file: "https://media.sakuramusicworld.com/Osaka.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist/ 作詞：Sakura Ikeda（池田樱子・池田さくら）    
+Vocal / 演唱 / 歌：AI
+
+きみにあえたさだめだよ
+さみしいこころわすれたいよよ
+わすれられずまたおもう
+きみのことまだすきだよよよ
+
+またきみにあえたね
+またふたりつづくね
+ずっといっしょといったひ
+あのことばまだある BABY
+
+なくしてまたみつけたこい
+こんどはぜったいはなさない
+ながいじかんもきえてない
+きみはやっぱりきみ
+
+これからふたりでえがくみらい
+わたしのすべてきみにあげる
+これがあいだよふたりだけの
+ずっとたいせつはなさない
+そのきみ
+
+またきみにあえたね
+またふたりつづくね
+ずっといっしょといったひ
+あのことばまだある BABY
+
+なくしてまたみつけたこい
+こんどはぜったいはなさない
+ながいじかんもきえてない
+きみはやっぱりきみ
+
+これからふたりでえがくみらい
+わたしのすべてきみにあげる
+これがあいだよふたりだけの
+ずっとたいせつはなさない
+そのきみ
+
+なくしてまたみつけたこい
+こんどはぜったいはなさない
+ながいじかんもきえてない
+きみはやっぱりきみ
+
+これからふたりでえがくみらい
+わたしのすべてきみにあげる
+これがあいだよふたりだけの
+ずっとたいせつはなさない
+そのきみ`
+  },
+        {
+    id: 38,
+    title: "好好对你",
+    file: "https://media.sakuramusicworld.com/haohaoduini.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist/ 作詞：Sakura Ikeda（池田樱子・池田さくら）    
+Vocal / 演唱 / 歌：AI
+
+你眼里 总充满忧郁
+你心里 放我在哪里
+你总把心事 默默藏在心底
+要我 如何去懂你
+
+我眼里 你却是唯一
+我心里 全被你占据
+任时间迁移 你我慢慢的老去
+我会 用尽一生的力气好好对你
+
+哪怕有一天我发现 发现你的谎言 发现你对我的欺骗
+我也会装作没看见 只看见你的双眼 还有和你的每个瞬间
+哪怕有一天你改变 改变你的诺言 改变你看我的视线
+我也没有任何怨言 有的只是眷恋 还想再多爱你一天
+
+我眼里 你却是唯一
+我心里 全被你占据
+任时间迁移 你我慢慢的老去
+我会 用尽一生的力气好好对你
+
+哪怕有一天我发现 发现你的谎言 发现你对我的欺骗
+我也会装作没看见 只看见你的双眼 还有和你的每个瞬间
+哪怕有一天你改变 改变你的诺言 改变你看我的视线
+我也没有任何怨言 有的只是眷恋 还想再多爱你一天
+
+哪怕有一天我发现 发现你的谎言 发现你对我的欺骗
+我也会装作没看见 只看见你的双眼 还有和你的每个瞬间
+哪怕有一天你改变 改变你的诺言 改变你看我的视线
+我也没有任何怨言 有的只是眷恋 还想再多爱你一天`
+  },
+        {
     id: 39,
-    title: "愛の麻酔",
-    file: "https://media.sakuramusicworld.com/Rabuzuhenpu.mp3",
+    title: "涙しても後悔しない",
+    file: "https://media.sakuramusicworld.com/Kokai.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
 Lyricist/ 作詞：Sakura Ikeda（池田樱子・池田さくら）    
 Vocal / 演唱 / 歌：AI
-`
+
+あの日に　君の顔見て
+わかってた　これが最後で
+
+この胸に　まだいくつもの願い抱いて
+君と二人で　叶えられなくて
+
+あの日に　君の瞳
+見えていた　深い疲れ
+
+ごめんねと　言えないまま遠く離れて
+この先ずっと　君で眠れなくて
+
+君のために　涙流して
+後悔なんて　一つもなくて
+痛みさえも　最初から知っていて
+それでもまだ　心は壊れて
+
+君のために　涙流して
+これから先は　誰を想って
+ひとりきりで　残された花抱いて
+花びらから　その奥まで
+静かにただ　枯れていって
+
+あの日に　君の瞳
+見えていた　深い疲れ
+
+ごめんねと　言えないまま遠く離れて
+この先ずっと　君で眠れなくて
+
+君のために　涙流して
+後悔なんて　一つもなくて
+痛みさえも　最初から知っていて
+それでもまだ　心は壊れて
+
+君のために　涙流して
+これから先は　誰を想って
+ひとりきりで　残された花抱いて
+花びらから　その奥まで
+静かにただ　枯れていって
+
+君のために　涙流して
+後悔なんて　一つもなくて
+痛みさえも　最初から知っていて
+それでもまだ　心は壊れて
+
+君のために　涙流して
+これから先は　誰を想って
+ひとりきりで　残された花抱いて
+花びらから　その奥まで
+静かにただ　枯れていって`
   },
-    {
+        {
     id: 40,
-    title: "愛の麻酔",
+    title: "为什么世界末日没成真",
+    file: "https://media.sakuramusicworld.com/shijiemori.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist/ 作詞：Sakura Ikeda（池田樱子・池田さくら）    
+Vocal / 演唱 / 歌：AI
+
+这次我站在这里
+没有留恋的东西
+在这 罪恶的世界里
+再看一眼这个最后的世纪
+等待 末日的降临
+
+这次我真的愿意
+去另一个世界里
+不再 无力的撑下去 
+再过一夜这个人间的炼狱
+以为 会有纯净的洗涤
+
+为什么世界末日没成真
+我还要继续做我的罪人
+无法解脱我的今生
+还有那肮脏的灵魂
+
+为什么世界末日没成真
+我宁愿化作宇宙一粒尘
+没有轮回没有来生
+无爱无恨不会沉沦
+
+这次我真的愿意
+去另一个世界里
+不再 无力的撑下去 
+再过一夜这个人间的炼狱
+以为 会有纯净的洗涤
+
+为什么世界末日没成真
+我还要继续做我的罪人
+无法解脱我的今生
+还有那肮脏的灵魂
+
+为什么世界末日没成真
+我宁愿化作宇宙一粒尘
+没有轮回没有来生
+无爱无恨不会沉沦
+
+为什么世界末日没成真
+我还要继续做我的罪人
+无法解脱我的今生
+还有那肮脏的灵魂
+
+为什么世界末日没成真
+我宁愿化作宇宙一粒尘
+没有轮回没有来生
+无爱无恨不会沉沦`
+  },
+        {
+    id: 41,
+    title: "自由という名の炎",
+    file: "https://media.sakuramusicworld.com/Muryo.mp3",
+    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
+Lyricist/ 作詞：Sakura Ikeda（池田樱子・池田さくら）    
+Vocal / 演唱 / 歌：AI
+
+ついにある日 沈黙してた本当の自分を
+もう隠さずに 思いきり自由に生きる
+
+この道を選び たとえ前が棘だらけでも
+笑われても 人生すべて背いていても
+それでいい
+
+ただ胸を張って 生きていたい本当の自分
+なのになぜ この世界は頭を下げろと言う
+
+あの理屈やルール 正しさだと言う声も
+たった一つの問いさえも耐えられなくて
+ぶつかれば 砕ける
+
+ある人 ある魂 いつの間に消えた
+すべて捧げたのに 返るのは冷たい無視
+
+どうしても 永遠に 認めないなら
+ならなぜ僕はまだ あなたの作った鎖で
+この世界を壊し 偽りの僕を裂く
+
+ただ胸を張って 生きていたい本当の自分
+なのになぜ この世界は頭を下げろと言う
+
+あの理屈やルール 正しさだと言う声も
+たった一つの問いさえも耐えられなくて
+ぶつかれば 砕ける
+
+ある人 ある魂 いつの間に消えた
+すべて捧げたのに 返るのは冷たい無視
+
+どうしても 永遠に 認めないなら
+ならなぜ僕はまだ あなたの作った鎖で
+この世界を壊し 偽りの僕を裂く
+
+あの人 あの声 すべて花火のよう
+疑いの声さえ 僕の怒りを燃やす
+
+結局は 誰もが 本当の僕を知らない
+ならなぜ僕はまだ 仮面をつけたままで
+すべて壊して 今こそ羽ばたく炎
+yeah yeah`
+  },
+        {
+    id: 42,
+    title: "English Song is Coming Soon",
     file: "https://media.sakuramusicworld.com/Rabuzuhenpu.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
 Lyricist/ 作詞：Sakura Ikeda（池田樱子・池田さくら）    
 Vocal / 演唱 / 歌：AI
 `
   },
-    {
-    id: 41,
-    title: "愛の麻酔",
+        {
+    id: 43,
+    title: "English Song is Coming Soon",
     file: "https://media.sakuramusicworld.com/Rabuzuhenpu.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
 Lyricist/ 作詞：Sakura Ikeda（池田樱子・池田さくら）    
