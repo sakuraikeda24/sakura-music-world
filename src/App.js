@@ -7,8 +7,11 @@ export default function MusicVideoWebsite() {
   const [activeMedia, setActiveMedia] = useState(null);
 useEffect(() => {
   const params = new URLSearchParams(window.location.search);
-  const songId = params.get("song");
 
+  const songId = params.get("song");
+  const videoId = params.get("video");
+
+  // 🎧 音频处理
   if (songId) {
     const target = document.getElementById(`song-${songId}`);
 
@@ -18,14 +21,24 @@ useEffect(() => {
       setTimeout(() => {
         target.scrollIntoView({ behavior: "smooth", block: "center" });
 
-        // 👉 找到这个卡片里的 audio
         const audio = target.querySelector("audio");
 
         if (audio) {
           audio.play().catch(() => {
-            console.log("Autoplay blocked by browser");
+            console.log("Autoplay blocked");
           });
         }
+      }, 300);
+    }
+  }
+
+  // 🎬 视频处理（你现在缺的就是这个）
+  if (videoId) {
+    const target = document.getElementById(`video-${videoId}`);
+
+    if (target) {
+      setTimeout(() => {
+        target.scrollIntoView({ behavior: "smooth", block: "center" });
       }, 300);
     }
   }
@@ -3082,7 +3095,7 @@ const stopAllMedia = (currentElement) => {
 
   <div className="video-list">
     {videos.map((video) => (
-      <div className="video-card" key={video.id} id={`video-${video.id}`}>
+     <div className="video-card" key={video.id} id={`video-${video.id}`}>
               <h4>{video.title}</h4>
 
 <button
