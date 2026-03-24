@@ -1,10 +1,34 @@
-import { useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import "./styles.css";
 
 export default function MusicVideoWebsite() {
   const [language, setLanguage] = useState("en");
   const [openLyricsId, setOpenLyricsId] = useState(null);
   const [activeMedia, setActiveMedia] = useState(null);
+  useEffect(() => {
+  const params = new URLSearchParams(window.location.search);
+  const songId = params.get("song");
+  const videoId = params.get("video");
+
+  if (songId) {
+    const target = document.getElementById(`song-${songId}`);
+    if (target) {
+      setOpenLyricsId(Number(songId));
+      setTimeout(() => {
+        target.scrollIntoView({ behavior: "smooth", block: "center" });
+      }, 200);
+    }
+  }
+
+  if (videoId) {
+    const target = document.getElementById(`video-${videoId}`);
+    if (target) {
+      setTimeout(() => {
+        target.scrollIntoView({ behavior: "smooth", block: "center" });
+      }, 200);
+    }
+  }
+}, []);
   const featuredAudioRef = useRef(null);
 const featuredSongIndex = 0;
   const translations = {
@@ -2979,7 +3003,7 @@ const videos = [
 
           <div className="music-list">
             {songs.map((song, index) => (
-              <article className="song-card" key={song.id}>
+              <article className="song-card" key={song.id} id={`song-${song.id}`}>
                 <div className="song-info">
                   <div>
                     <div className="song-label">
@@ -3050,7 +3074,7 @@ const videos = [
 
   <div className="video-list">
     {videos.map((video) => (
-      <div className="video-card" key={video.id}>
+      <div className="video-card" key={video.id} id={`video-${video.id}`}>
               <h4>{video.title}</h4>
 
 <button
