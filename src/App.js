@@ -2875,12 +2875,6 @@ Vocal / 演唱 / 歌：AI
     title: "Sydney All Week-MV",
     file: "https://media.sakuramusicworld.com/SydneyAllWeek-mv.mp4",
     cover: "/gallery/photo10.jpg"
-  },
-  {
-    id: 2,
-    title: "没有你的明天",
-    file: "https://media.sakuramusicworld.com/meiyouni-mv.mp4",
-    cover: "/gallery/photo203.jpg"
   }
 ];
   const galleryItems = Array.from({ length: 50 }, (_, index) => ({
