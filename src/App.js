@@ -2869,12 +2869,16 @@ Vocal / 演唱 / 歌：AI
 `
   },
 ];
-  const videos = [
+const videos = [
   {
     id: 1,
-    title: "Sydney All Week-MV",
-    file: "https://media.sakuramusicworld.com/SydneyAllWeek-mv.mp4",
-    cover: "/gallery/photo10.jpg"
+    title: "Sydney All Week",
+    bvid: "BV14nAGzMEbA"
+  },
+  {
+    id: 2,
+    title: "没有你的明天",
+    bvid: "BV15WXwBFEGn"
   }
 ];
   const galleryItems = Array.from({ length: 50 }, (_, index) => ({
@@ -3022,7 +3026,7 @@ Vocal / 演唱 / 歌：AI
             ))}
           </div>
         </section>
-              <section id="videos" className="section videos">
+<section id="videos" className="section videos">
   <div className="section-heading">
     <h2>{t.videosTitle}</h2>
     <p>{t.videosDesc}</p>
@@ -3034,10 +3038,15 @@ Vocal / 演唱 / 歌：AI
         <h4>{video.title}</h4>
 
         <div className="video-frame-wrap">
-          <video className="video-frame" controls preload="metadata">
-            <source src={video.file} type="video/mp4" />
-            Your browser does not support the video tag.
-          </video>
+          <iframe
+            className="video-frame"
+            src={`https://player.bilibili.com/player.html?bvid=${video.bvid}&page=1&autoplay=0`}
+            title={video.title}
+            frameBorder="0"
+            allow="fullscreen"
+            allowFullScreen
+            scrolling="no"
+          />
         </div>
       </div>
     ))}
