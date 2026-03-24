@@ -856,7 +856,7 @@ Vocal / 演唱 / 歌：AI
      {
     id: 11,
     title: "彼岸に残る魂（たましい）",
-    file: "https://media.sakuramusicworld.com/Tamashi.mp3.mp3",
+    file: "https://media.sakuramusicworld.com/Tamashi.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
 Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
 Vocal / 演唱 / 歌：AI
