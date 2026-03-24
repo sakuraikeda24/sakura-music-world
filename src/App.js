@@ -2873,12 +2873,17 @@ const videos = [
   {
     id: 1,
     title: "Sydney All Week",
-    bvid: "BV14nAGzMEbA"
+    bvid: "BV1beXwBpEiT"
   },
   {
     id: 2,
     title: "没有你的明天",
     bvid: "BV15WXwBFEGn"
+  },
+  {
+    id: 3,
+    title: "青藏高原",
+    bvid: "BV14nAGzMEbA"
   }
 ];
   const galleryItems = Array.from({ length: 50 }, (_, index) => ({
