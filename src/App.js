@@ -1658,19 +1658,161 @@ Go go, come on
   },
   {
     id: 23,
-    title: "song 23",
-    file: "/song 23.mp3",
+    title: "あなたとずっと",
+    file: "https://media.sakuramusicworld.com/Isshoni.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
 Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
-Vocal / 演唱 / 歌：AI`
+Vocal / 演唱 / 歌：AI
+
+傷ついた今 やっと気づいた
+私の幸せ どこにあるの
+この世界には きっと奇跡が
+あなたに出会わせた
+
+もし選んだなら もう迷わない
+二人で歩く 約束なの
+友情さえも 愛に変わる
+大事に守るよ
+
+あなたと一緒にいたい ずっと離れない
+あなたが守ってくれる 風や雨の日も
+もし私が少し わがままでも
+きっと離れない
+
+だからあなたの優しさ 抱きしめたい
+その胸の中で 愛してほしい
+もし世界すべて 手にしても
+あなたほど嬉しくない
+
+もし選んだなら もう迷わない
+二人で歩く 約束なの
+友情さえも 愛に変わる
+大事に守るよ
+
+あなたと一緒にいたい ずっと離れない
+あなたが守ってくれる 風や雨の日も
+もし私が少し わがままでも
+きっと離れない
+
+だからあなたの優しさ 抱きしめたい
+その胸の中で 愛してほしい
+もし世界すべて 手にしても
+あなたほど嬉しくない
+
+あなたと一緒にいたい ずっと離れない
+あなたが守ってくれる 風や雨の日も
+もし私が少し わがままでも
+きっと離れない
+
+だからあなたの優しさ 抱きしめたい
+その胸の中で 愛してほしい
+もし世界すべて 手にしても
+あなたほど嬉しくない
+
+あなたがいれば 未来はきっと
+この手をつないで 歩いて
+愛してる`
   },
   {
     id: 24,
-    title: "song 24",
-    file: "/song 24.mp3",
-    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
-Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
-Vocal / 演唱 / 歌：AI`
+    title: "Golden Skin",
+    file: "https://media.sakuramusicworld.com/Golden Skin.mp3",
+    lyrics: `Composer / 作曲：AI  
+Lyricist/ 作詞：AI
+Vocal / 演唱 / 歌：AI
+
+
+I wore iron on my heartbeat
+Heavy on my younger chest
+Built a kingdom out of concrete
+Called the cage a battle vest
+
+Every mirror felt like marching
+In a uniform I never chose
+Sharp shoulders. Borrowed language
+All the softness hid below
+
+But the seams start talking in the dark
+Tiny tears. Tiny sparks
+
+If I peel back one thin thread
+Will I vanish or be found instead
+
+I am shedding all this golden skin
+Breaking out of what they boxed me in
+Every scar a line I’m rewriting
+
+Watch me rise
+Watch me rise
+I’m igniting
+
+From the ashes of the armor I outgrew
+Comes a stranger that I always knew
+If you’re asking who I’ve always been
+Listen close
+As I grow this new
+Golden skin
+
+I was crowned for how I conquered
+Praised for never saying “please”
+Played a statue made of valor
+While my voice fell to its knees
+
+Now the steel hangs in the hallway
+Like a ghost I used to wear
+I step past it in a soft dress
+Learning how to take up air
+
+Every bruise blooms into a sign
+Every "wrong" becomes a line
+In a tongue I’m still learning
+But it tastes like it’s finally mine
+
+
+I am shedding all this golden skin
+Breaking out of what they boxed me in
+Every scar a line I’m rewriting
+
+Watch me rise
+Watch me rise
+I’m igniting
+From the ashes of the armor I outgrew
+Comes a stranger that I always knew
+
+If you’re asking who I’ve always been
+Listen close
+As I grow this new  golden skin
+
+Lay the helmet on the floor
+Kiss the title
+Close that door
+I was never just a name they gave
+I was thunder
+In a borrowed grave
+
+Now the hush inside my ribs
+Turns to choirs when I say
+This is me
+This is me
+Walking out my own way (oh)
+
+
+I am shedding all this golden skin
+Breaking out of what they boxed me in
+Every scar a line I’m rewriting
+
+Watch me rise
+Watch me rise
+I’m igniting
+From the ashes of the armor I outgrew
+Comes a stranger that I always knew
+
+If you’re asking who I’ve always been
+Hear my heart
+As it beats again
+Golden skin
+
+Golden skin`
   },
      {
     id: 25,
