@@ -5,27 +5,28 @@ export default function MusicVideoWebsite() {
   const [language, setLanguage] = useState("en");
   const [openLyricsId, setOpenLyricsId] = useState(null);
   const [activeMedia, setActiveMedia] = useState(null);
-  useEffect(() => {
+useEffect(() => {
   const params = new URLSearchParams(window.location.search);
   const songId = params.get("song");
-  const videoId = params.get("video");
 
   if (songId) {
     const target = document.getElementById(`song-${songId}`);
+
     if (target) {
       setOpenLyricsId(Number(songId));
-      setTimeout(() => {
-        target.scrollIntoView({ behavior: "smooth", block: "center" });
-      }, 200);
-    }
-  }
 
-  if (videoId) {
-    const target = document.getElementById(`video-${videoId}`);
-    if (target) {
       setTimeout(() => {
         target.scrollIntoView({ behavior: "smooth", block: "center" });
-      }, 200);
+
+        // 👉 找到这个卡片里的 audio
+        const audio = target.querySelector("audio");
+
+        if (audio) {
+          audio.play().catch(() => {
+            console.log("Autoplay blocked by browser");
+          });
+        }
+      }, 300);
     }
   }
 }, []);
