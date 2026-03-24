@@ -1435,14 +1435,6 @@ Vocal / 演唱 / 歌：AI
 会出现在梦里`
   },
   {
-    id: 19,
-    title: "song 19",
-    file: "/song 19.mp3",
-    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
-Lyricist (Chinese / Japanese) / 作词・作詞：Sakura Ikeda（池田樱子・池田さくら）   
-Vocal / 演唱 / 歌：AI`
-  },
-  {
     id: 20,
     title: "song 20",
     file: "/song 20.mp3",
