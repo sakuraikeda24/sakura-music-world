@@ -10,18 +10,16 @@ body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
   color: #3d3d3d;
+
   background:
-    linear-gradient(180deg, rgba(255, 245, 249, 0.95) 0%, rgba(255, 236, 244, 0.95) 100%),
-    repeating-linear-gradient(
-      115deg,
-      rgba(255, 255, 255, 0.48) 0px,
-      rgba(255, 255, 255, 0.48) 2px,
-      transparent 2px,
-      transparent 22px
-    ),
-    linear-gradient(180deg, #ffdce9 0%, #fff0f6 100%);
-  background-attachment: fixed;
-  animation: rainMove 10s linear infinite;
+    linear-gradient(180deg, #ffd6e7 0%, #fff0f6 100%),
+    radial-gradient(circle, rgba(255,255,255,0.9) 1.8px, transparent 1.2px);
+
+  background-size:
+    100% 100%,
+    28px 28px;
+
+  animation: rainFall 6s linear infinite;
 }
 
 a {
@@ -649,4 +647,13 @@ text-align: center;
 
 .bottom-nav a:hover::after {
   width: 100%;
+}
+@keyframes rainFall {
+  0% {
+    background-position: 0 0, 0 0;
+  }
+
+  100% {
+    background-position: 0 0, 0 400px;
+  }
 }
