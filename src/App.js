@@ -1302,7 +1302,7 @@ Vocal / 演唱 / 歌：AI
   },
   {
     id: 18,
-       title: "Sydney All Week (AI Generated)",
+       title: "Sydney All Week (Fully AI Generated)",
     file: "https://media.sakuramusicworld.com/Sydney All Week.mp3",
     lyrics: `Composer / 作曲：AI  
 Lyricist / 作詞：AI  
@@ -1728,7 +1728,7 @@ Vocal / 演唱 / 歌：AI
   },
   {
     id: 24,
-    title: "Golden Skin (AI Generated)",
+    title: "Golden Skin (Fully AI Generated)",
     file: "https://media.sakuramusicworld.com/Golden Skin.mp3",
     lyrics: `Composer / 作曲：AI  
 Lyricist/ 作詞：AI
@@ -1944,7 +1944,7 @@ Vocal / 演唱 / 歌：AI
   },
     {
     id: 27,
-    title: "Sakura Ikeda (AI Generated)",
+    title: "Sakura Ikeda (Fully AI Generated)",
     file: "https://media.sakuramusicworld.com/Sakura Ikeda.mp3",
     lyrics: `Composer / 作曲：AI  
 Lyricist/ 作詞：AI   
@@ -2138,7 +2138,7 @@ You said I'm beautiful, you are also beautiful
   },
     {
     id: 30,
-    title: "池田樱子(AI Generated)",
+    title: "池田樱子(Fully AI Generated)",
     file: "https://media.sakuramusicworld.com/chitianyingzi.mp3",
     lyrics: `Composer / 作曲：AI
 Lyrics (AI-assisted) / 歌詞（AI補助）：—      
