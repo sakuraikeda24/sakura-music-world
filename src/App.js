@@ -3775,7 +3775,7 @@ const videos = [
   galleryItems.push({
   id: 101,
   type: "bilibili",
-  bvid: "BV1fvXAB6EiG",
+  bvid: "BV1fvXiG",
   alt: "video 1",
   cover: "/gallery/photo201.jpg"
 });
