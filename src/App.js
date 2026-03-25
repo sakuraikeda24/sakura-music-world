@@ -3723,7 +3723,7 @@ const videos = [
   {
     id: 2,
     title: "Sydney All Week",
-    bvid: "BV1beXwBpEiT"
+    bvid: "BV1MdQ6BZE8L"
   },
   {
     id: 3,
@@ -3747,23 +3747,23 @@ const videos = [
   },
    {
     id: 7,
-    title: "没有你的明天",
-    bvid: "BV15WXwBFEGn"
+    title: "Coming Soon",
+    bvid: "Coming Soon"
   },
    {
     id: 8,
-    title: "没有你的明天",
-    bvid: "BV15WXwBFEGn"
+    title: "Coming Soon",
+    bvid: "Coming Soon"
   },
    {
     id: 9,
-    title: "没有你的明天",
-    bvid: "BV15WXwBFEGn"
+    title: "Coming Soon",
+    bvid: "Coming Soon"
   },
    {
     id: 10,
-    title: "没有你的明天",
-    bvid: "BV15WXwBFEGn"
+    title: "Coming Soon",
+    bvid: "Coming Soon"
   },
 ];
   const galleryItems = Array.from({ length: 50 }, (_, index) => ({
