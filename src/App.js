@@ -189,9 +189,11 @@ to shape music into its most authentic form.
       navLife: "ギャラリー",
       navAbout: "私について",
       siteTitle: "池田さくらの音楽世界",
-      introText1: "私のオリジナル音楽、日々の瞬間、そして創作の世界。",
+      introText1: `十数年前、2枚のアルバム（全23曲）を発表しました。
+それらはすべて、私自身が作曲・作詞したオリジナル作品です。`,
       introText2:
-        "歌、映像、記憶、そして一つひとつの作品の背景を残していく、私だけの場所です。",
+        `そして今、
+それらの音楽を新しいかたちで表現しています。`,
       playMusic: "音楽を再生",
       musicTitle: "音楽作品",
       musicDesc:
