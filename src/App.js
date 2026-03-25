@@ -3768,7 +3768,7 @@ const videos = [
     bvid: "Coming Soon"
   },
 ];
-  const galleryItems = Array.from({ length: 500 }, (_, index) => ({
+  const galleryItems = Array.from({ length: 185 }, (_, index) => ({
   id: index + 1,
   type: "image",
   src: `/gallery/photo${index + 1}.jpg`,
