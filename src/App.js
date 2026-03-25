@@ -44,6 +44,7 @@ useEffect(() => {
   }
 }, []);
   const featuredAudioRef = useRef(null);
+ const [showBackToTop, setShowBackToTop] = useState(false);
 const featuredSongIndex = 0;
   const translations = {
     en: {
@@ -266,7 +267,21 @@ to shape music into its most authentic form.
   };
 
   const t = translations[language];
+useEffect(() => {
+  const handleScroll = () => {
+    setShowBackToTop(window.scrollY > 400);
+  };
 
+  window.addEventListener("scroll", handleScroll);
+  return () => window.removeEventListener("scroll", handleScroll);
+}, []);
+
+const scrollToTop = () => {
+  window.scrollTo({
+    top: 0,
+    behavior: "smooth"
+  });
+};
   const songs = [
   {
     id: 1,
@@ -4023,6 +4038,11 @@ const stopAllMedia = (currentElement) => {
         </section>
 
         <footer className="footer">© Sakura Music World</footer>
+                  {showBackToTop && (
+  <button className="back-to-top" onClick={scrollToTop}>
+    ↑ Top
+  </button>
+)}
       </main>
 
       {activeMedia && (
