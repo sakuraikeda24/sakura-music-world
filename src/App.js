@@ -3717,19 +3717,54 @@ Vocal / 演唱 / 歌：AI
 const videos = [
   {
     id: 1,
-    title: "Sydney All Week",
-    bvid: "BV1beXwBpEiT"
+    title: "Stay In Your Arms",
+    bvid: "BV1MkQCBNEKS"
   },
   {
     id: 2,
-    title: "没有你的明天",
-    bvid: "BV15WXwBFEGn"
+    title: "Sydney All Week",
+    bvid: "BV1beXwBpEiT"
   },
   {
     id: 3,
     title: "青藏高原",
     bvid: "BV14nAGzMEbA"
-  }
+  },
+   {
+    id: 4,
+    title: "Sakura Ikeda",
+    bvid: "BV15WXwBFEG-n"
+  },
+   {
+    id: 5,
+    title: "あなたとずっと",
+    bvid: "BV16oQCB9EB1"
+  },
+   {
+    id: 6,
+    title: "没有你的明天",
+    bvid: "BV15WXwBFEGn"
+  },
+   {
+    id: 7,
+    title: "没有你的明天",
+    bvid: "BV15WXwBFEGn"
+  },
+   {
+    id: 8,
+    title: "没有你的明天",
+    bvid: "BV15WXwBFEGn"
+  },
+   {
+    id: 9,
+    title: "没有你的明天",
+    bvid: "BV15WXwBFEGn"
+  },
+   {
+    id: 10,
+    title: "没有你的明天",
+    bvid: "BV15WXwBFEGn"
+  },
 ];
   const galleryItems = Array.from({ length: 50 }, (_, index) => ({
   id: index + 1,
