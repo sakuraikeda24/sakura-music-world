@@ -3783,7 +3783,7 @@ const videos = [
     bvid: "Coming Soon"
   },
 ];
-  const galleryItems = Array.from({ length: 185 }, (_, index) => ({
+  const galleryItems = Array.from({ length: 180 }, (_, index) => ({
   id: index + 1,
   type: "image",
   src: `/gallery/photo${index + 1}.jpg`,
@@ -4040,7 +4040,7 @@ const stopAllMedia = (currentElement) => {
         <footer className="footer">© Sakura Music World</footer>
                   {showBackToTop && (
   <button className="back-to-top" onClick={scrollToTop}>
-    ↑ Top
+    ↑
   </button>
 )}
       </main>
