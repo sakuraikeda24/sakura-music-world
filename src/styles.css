@@ -592,3 +592,33 @@ text-align: center;
     background-position: 0 0, 120px 420px, 0 0;
   }
 }
+.back-to-top {
+  position: fixed;
+  right: 24px;
+  bottom: 24px;
+  z-index: 1000;
+  border: none;
+  border-radius: 999px;
+  padding: 14px 18px;
+  background: rgba(124, 58, 237, 0.9);
+  color: white;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 10px 24px rgba(124, 58, 237, 0.28);
+  transition: transform 0.2s ease, opacity 0.2s ease, background 0.2s ease;
+}
+
+.back-to-top:hover {
+  transform: translateY(-2px);
+  background: rgba(109, 40, 217, 0.95);
+}
+
+@media (max-width: 640px) {
+  .back-to-top {
+    right: 16px;
+    bottom: 16px;
+    padding: 12px 16px;
+    font-size: 14px;
+  }
+}
