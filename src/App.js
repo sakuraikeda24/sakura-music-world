@@ -53,9 +53,9 @@ const featuredSongIndex = 0;
       navLife: "Gallery",
       navAbout: "About",
       siteTitle: "Sakura Music World",
-      introText1: "My original music, everyday moments, and creative world.",
+      introText1: "Music, finally heard the way it was meant to be.",
       introText2:
-        "A personal space for songs, visuals, memories, and the story behind each piece.",
+        `Most of the music here comes from albums I released over a decade ago — all composed and written by me, unless otherwise explicitly marked as fully AI-generated.`,
       playMusic: "Play Music",
       musicTitle: "Music",
       musicDesc:
