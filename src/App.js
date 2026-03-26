@@ -3421,7 +3421,7 @@ Vocal / 演唱 / 歌：AI
     {
     id: 52,
     title: "壊してしまった愛",
-    file: "https://media.sakuramusicworld.com/Kowashite.mp3",
+    file: "https://media.sakuramusicworld.com/Kowashite1.mp3",
     lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
 Lyricist/ 作詞：Sakura Ikeda（池田樱子・池田さくら）    
 Vocal / 演唱 / 歌：AI
