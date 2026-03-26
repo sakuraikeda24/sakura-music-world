@@ -3790,12 +3790,132 @@ Kiko是我最爱的人
   },
     {
     id: 58,
-    title: "English Song is Coming Soon",
-    file: "https://media.sakuramusicworld.com/Rabuzuhenpu.mp3",
-    lyrics: `Composer / 作曲：Sakura Ikeda（池田樱子・池田さくら）  
-Lyricist/ 作詞：Sakura Ikeda（池田樱子・池田さくら）    
+    title: "Back Where We Start",
+    file: "https://media.sakuramusicworld.com/Back Where We Start.mp3",
+    lyrics: `Composer / 作曲：AI
+Lyricist/ 作詞：AI Assisted/AI補助）    
 Vocal / 演唱 / 歌：AI
-`
+
+Met you by the harbor
+
+Late afternoon
+
+Sun in your eyes
+
+I was gone too soon
+
+Cheap cues
+
+Bad jokes at the corner pool
+
+You missed the shot
+
+I broke every rule
+
+On the Sydney side of my heart
+
+You and me singing in the dark
+
+Karaoke mics
+
+Screaming out our favorite bands
+
+Chinese garden lights
+
+Fingers laced in both our hands
+
+I’m far away but not apart
+
+You’re the Sydney side of my heart
+
+Baby
+
+I’ll be back where we start
+
+Back where we start
+
+Back in your arms
+
+Neon song list
+
+You picked that track
+
+You missed a note
+
+I still played it back
+
+Metal nights
+
+Hairbrush fights in your room
+
+We turned that tiny flat into a monsoon
+
+
+On the Sydney side of my heart
+
+You and me singing in the dark
+
+Karaoke mics
+
+Screaming out our favorite bands
+
+Chinese garden lights
+
+Fingers laced in both our hands
+
+I’m far away but not apart
+
+You’re the Sydney side of my heart
+
+Baby
+
+I’ll be back where we start
+
+Back where we start
+
+Back in your arms
+
+
+Sam
+
+I see your name
+
+In every sunrise I can’t share
+
+Counting days by songs we played
+
+Every chorus pulls me there 
+
+Save that table by the pool
+
+Save that mic
+
+That metal tune
+
+I’m on my way back soon
+
+
+To the Sydney side of my heart
+
+You and me singing in the dark
+
+Karaoke mics
+
+Screaming out our favorite bands
+
+Chinese garden lights
+
+Fingers laced in both our hands
+
+I’m far away but not apart
+
+You’re the Sydney side of my heart
+
+Baby
+
+I’ll be back where we start
+
+Back where we start`
   },
 ];
 const videos = [
