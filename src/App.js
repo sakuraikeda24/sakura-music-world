@@ -3831,8 +3831,8 @@ const videos = [
   },
    {
     id: 7,
-    title: "Coming Soon",
-    bvid: "Coming Soon"
+    title: "KIKO是我最爱的人",
+    bvid: "BV1ddXpBdEeV"
   },
    {
     id: 8,
