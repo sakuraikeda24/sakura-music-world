@@ -4099,6 +4099,7 @@ Kagerou floor, kagerou floor
 本当はもっと上
 Kagerou floor, kagerou floor
 見上げるだけでいい`
+        },
 ];
 const videos = [
   {
