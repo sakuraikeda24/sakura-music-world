@@ -3978,6 +3978,127 @@ Be Water, my friend
 只有那个人知晓
 我最真实的荒谬`
   },
+  {
+    id: 60,
+    title: "陽炎フロア (AI Generated)",
+    file: "https://media.sakuramusicworld.com/Kagerou Floor.mp3",
+    lyrics: `Composer / 作曲：AI
+Lyricist/ 作詞：AI Assisted/AI補助）    
+Vocal / 演唱 / 歌：AI
+グラスの向こうで
+名前は置いてきた
+笑えばもっと
+遠くへ行けるから
+
+触れそうで触れない
+視線だけ集めて
+誰も知らない
+本当の手札
+
+だれかの夢に
+映るたび
+私は静かに
+角を曲がる
+
+見えてるのはone side
+信じないで
+ほら、近づくほど
+謎になる
+
+Kagerou floor, kagerou floor
+I’m already above
+Kagerou floor, kagerou floor
+見えてるのはone side
+
+Kagerou floor, kagerou floor
+触れないまま glow
+Kagerou floor, kagerou floor
+I move like I know
+
+ナイトの奥で
+チップみたいに笑う
+高い香水と
+甘い言葉が舞う
+
+でも私はもう
+借りは全部ゼロ
+欲しいものだけ
+自分で選ぶ
+
+テーブルの上で
+カードより静かに
+勝ち筋だけを
+読んでる eyes
+
+二つの顔でも
+どっちも本命
+表の私だけで
+測るな、monday
+
+深いところまで
+届かない指先
+見た目で決めると
+足元が崩れ
+
+表現は優雅
+でも中身は鋭利
+曖昧な噂より
+結果で語る routine
+
+誰かの憧れ?
+それはただの入口
+本当の強さは
+見せないところにある
+
+だれかの夢に
+映るたび
+私は静かに
+角を曲がる
+
+見えてるものだけ
+信じないで
+ほら、近づくほど
+謎になる
+
+Kagerou floor, kagerou floor
+I’m already above
+Kagerou floor, kagerou floor
+見えてるのはone side
+
+Kagerou floor, kagerou floor
+触れないまま glow
+Kagerou floor, kagerou floor
+I move like I know
+
+水面みたいに
+揺れて見えても
+芯はぶれない
+もう読まれてる
+
+欲しがるほどに
+届かない
+私は私のまま
+消えていく
+
+Kagerou floor, kagerou floor
+I’m already above
+Kagerou floor, kagerou floor
+見えてるのはone side
+
+Kagerou floor, kagerou floor
+触れないまま glow
+Kagerou floor, kagerou floor
+I move like I know
+
+Kagerou floor, kagerou floor
+誰にも渡さない
+Kagerou floor, kagerou floor
+静かに high, so high
+
+Kagerou floor, kagerou floor
+本当はもっと上
+Kagerou floor, kagerou floor
+見上げるだけでいい`
 ];
 const videos = [
   {
