@@ -4100,6 +4100,98 @@ Kagerou floor, kagerou floor
 Kagerou floor, kagerou floor
 見上げるだけでいい`
         },
+     {
+    id: 61,
+    title: "Above the Frame(AI Generated)",
+    file: "https://media.sakuramusicworld.com/Above the Frame.mp3",
+    lyrics: `Composer / 作曲：AI
+Lyricist/ 作詞：AI Assisted/AI補助）    
+Vocal / 演唱 / 歌：AI
+I walk in like I own the frame
+Soft smile, hard name
+They look, then they lean
+Buy me gold in the machine
+
+I let them chase the shine
+While I move in my own design
+Two lives in one black coat
+One for the floor, one for the vote
+
+They think they read me clear
+But they never get near
+I let the room believe
+What it needs to see
+
+I’m higher than you know
+I move, then I go
+Untouchable glow
+I’m already gone
+
+I’m higher than you know
+Playing the part for show
+Untouchable glow
+I’m already gone
+
+Pool hall smoke and lacquered wood
+I rack my luck, I keep it good
+They call me pretty, call me rare
+I just smile and let them stare
+
+His watch glints when he talks too loud
+I read the room, I own the crowd
+I take the drink, I take the view
+I see the strings, and who pulls through
+
+They want the mask, I keep the map
+Twin lives stitched in a clean-cut lap
+One hand calm, one hand cold
+I’ve seen the price, I’ve broke the mold
+
+I count the exits, count the lies
+Money talks, but I read eyes
+They praise the face, miss the mind
+I’m two steps past what they can find
+
+Every glance is a little test
+I pass it smooth, never second-guess
+If the room wants a dream, I sell the frame
+Then vanish back under my own name
+
+They think they read me clear
+But they never get near
+I let the room believe
+What it needs to see
+
+I’m higher than you know
+I move, then I go
+Untouchable glow
+I’m already gone
+
+I’m higher than you know
+Playing the part for show
+Untouchable glow
+I’m already gone
+
+Watch me split the light in two
+One for them, one for the truth
+Say my name and miss the key
+I’m the lock and the memory
+
+I’m higher than you know
+I move, then I go
+Untouchable glow
+I’m already gone
+
+I’m higher than you know
+Playing the part for show
+Untouchable glow
+I’m already gone
+
+I’m higher than you know
+(Already gone)
+I’m higher than you know
+(Already gone)
+},
 ];
 const videos = [
   {
